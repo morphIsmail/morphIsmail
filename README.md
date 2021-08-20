@@ -13,6 +13,11 @@
 
 ### Последние видео
 <!-- YOUTUBE:START -->
+- [#17 Уроки Git+GitHub - Добавляем описание профиля на GitHub с помощью README.md файла](https://www.youtube.com/watch?v=vxpoEiEF5wQ)
+- [Курс по Gulp 4, Планировщик задач Gulp от нуля до профи](https://www.youtube.com/watch?v=yTPSpD5_X_4)
+- [Регулярные выражения в JavaScript за 1 час, Уроки JavaScript](https://www.youtube.com/watch?v=uaDmuoZtIK4)
+- [Как создать телеграм бота на JS, Бот на Telegraf и деплой на Heroku](https://www.youtube.com/watch?v=YxHWfDdjIek)
+- [Фото с текстом и неоновым светом в Blender, текст и неон в Blender](https://www.youtube.com/watch?v=5S1cGVGHUZs)
 <!-- YOUTUBE:END -->
 
 ### Автору на кофе
