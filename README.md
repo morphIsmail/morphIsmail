@@ -11,9 +11,9 @@
 
 ### Последние видео на канале
 <!-- YOUTUBE:START -->
+- [Организация отступов margin и padding, Видео курс по CSS, Урок 36](https://www.youtube.com/watch?v=jQlTx3Jl2tg)
 - [Как добавить переменные на CSS в root, Видео курс по CSS, Урок 35](https://www.youtube.com/watch?v=ncB_qYsscIE)
 - [#17 Уроки Git+GitHub - Добавляем описание профиля на GitHub с помощью README.md файла](https://www.youtube.com/watch?v=vxpoEiEF5wQ)
-- [Курс по Gulp 4, Планировщик задач Gulp от нуля до профи](https://www.youtube.com/watch?v=yTPSpD5_X_4)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
