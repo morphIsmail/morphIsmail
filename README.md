@@ -11,9 +11,9 @@
 
 ### Последние видео на канале
 <!-- YOUTUBE:START -->
+- [Работа с базой данных на PHP и MySQL](https://www.youtube.com/watch?v=1oiUNKlylBM)
 - [Организация отступов margin и padding, Видео курс по CSS, Урок 36](https://www.youtube.com/watch?v=jQlTx3Jl2tg)
 - [Как добавить переменные на CSS в root, Видео курс по CSS, Урок 35](https://www.youtube.com/watch?v=ncB_qYsscIE)
-- [#17 Уроки Git+GitHub - Добавляем описание профиля на GitHub с помощью README.md файла](https://www.youtube.com/watch?v=vxpoEiEF5wQ)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
