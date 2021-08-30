@@ -11,9 +11,9 @@
 
 ### Последние видео на канале
 <!-- YOUTUBE:START -->
+- [Конкурс по Bootstrap 5, Результаты и обзор кода победителя](https://www.youtube.com/watch?v=xgSBp5B83ag)
 - [Работа с базой данных на PHP и MySQL](https://www.youtube.com/watch?v=1oiUNKlylBM)
 - [Организация отступов margin и padding, Видео курс по CSS, Урок 36](https://www.youtube.com/watch?v=jQlTx3Jl2tg)
-- [Как добавить переменные на CSS в root, Видео курс по CSS, Урок 35](https://www.youtube.com/watch?v=ncB_qYsscIE)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
