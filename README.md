@@ -11,9 +11,9 @@
 
 ### Последние видео на канале
 <!-- YOUTUBE:START -->
+- [Бесплатные иконки! Как использовать Bootstrap Icons v1.5.0 | Bootstrap 5 (2021)](https://www.youtube.com/watch?v=ZO4M9e5Tunc)
 - [#5 Аналог jQuery на чистом JavaScript - Супер JavaScript, События](https://www.youtube.com/watch?v=YPwDykTprmw)
 - [Конкурс по Bootstrap 5, Результаты и обзор кода победителя](https://www.youtube.com/watch?v=xgSBp5B83ag)
-- [Работа с базой данных на PHP и MySQL](https://www.youtube.com/watch?v=1oiUNKlylBM)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
