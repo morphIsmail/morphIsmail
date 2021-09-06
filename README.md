@@ -11,9 +11,9 @@
 
 ### Последние видео на канале
 <!-- YOUTUBE:START -->
+- [Функция calc() на CSS3, Вычисления значения на CSS, Видео курс по CSS, Урок 37](https://www.youtube.com/watch?v=9Z_zTgDdKn0)
 - [Бесплатные иконки! Как использовать Bootstrap Icons v1.5.0 | Bootstrap 5 (2021)](https://www.youtube.com/watch?v=ZO4M9e5Tunc)
 - [#5 Аналог jQuery на чистом JavaScript - Супер JavaScript, События](https://www.youtube.com/watch?v=YPwDykTprmw)
-- [Конкурс по Bootstrap 5, Результаты и обзор кода победителя](https://www.youtube.com/watch?v=xgSBp5B83ag)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
