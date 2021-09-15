@@ -11,9 +11,9 @@
 
 ### Последние видео на канале
 <!-- YOUTUBE:START -->
+- [Контроллер персонажа (1 из 2) - Уроки Bolt #3 RU](https://www.youtube.com/watch?v=FlNbPnkrMKc)
 - [Настройка проекта - Уроки Bolt #2 RU](https://www.youtube.com/watch?v=VFXQKFnVO08)
 - [Установка Unity - Уроки Bolt #1 RU](https://www.youtube.com/watch?v=VQJeiRNAT5g)
-- [Как конвертировать mkv в mp4 бесплатно и быстро, Ремультиплексирование mkv в mp4 в OBS Studio](https://www.youtube.com/watch?v=o2Jj3JtN90E)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
