@@ -11,9 +11,9 @@
 
 ### Последние видео на канале
 <!-- YOUTUBE:START -->
+- [Контроллер персонажа (2 из 2) - Уроки Bolt #4 RU](https://www.youtube.com/watch?v=q_tu4KEAkxo)
 - [Контроллер персонажа (1 из 2) - Уроки Bolt #3 RU](https://www.youtube.com/watch?v=FlNbPnkrMKc)
 - [Настройка проекта - Уроки Bolt #2 RU](https://www.youtube.com/watch?v=VFXQKFnVO08)
-- [Установка Unity - Уроки Bolt #1 RU](https://www.youtube.com/watch?v=VQJeiRNAT5g)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
