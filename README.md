@@ -11,9 +11,9 @@
 
 ### Последние видео на канале
 <!-- YOUTUBE:START -->
+- [Переход на новый уровень - Уроки Bolt #6 RU](https://www.youtube.com/watch?v=Y_PZPe9WWdc)
 - [Шипы и смерть - Уроки Bolt #5 RU](https://www.youtube.com/watch?v=jOPWviT2U0s)
 - [Контроллер персонажа (2 из 2) - Уроки Bolt #4 RU](https://www.youtube.com/watch?v=q_tu4KEAkxo)
-- [Контроллер персонажа (1 из 2) - Уроки Bolt #3 RU](https://www.youtube.com/watch?v=FlNbPnkrMKc)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
