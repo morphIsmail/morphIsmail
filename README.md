@@ -11,9 +11,9 @@
 
 ### Последние видео на канале
 <!-- YOUTUBE:START -->
+- [Здоровье и урон - Уроки Bolt #9 RU](https://www.youtube.com/watch?v=LJ8tJK_8STM)
 - [Двери и Ключи - Уроки Bolt #8 RU](https://www.youtube.com/watch?v=SjA-uUP4V8o)
 - [HUD Индикация на экране - Уроки Bolt #7 RU](https://www.youtube.com/watch?v=3EmLGnT06hE)
-- [Переход на новый уровень - Уроки Bolt #6 RU](https://www.youtube.com/watch?v=Y_PZPe9WWdc)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
