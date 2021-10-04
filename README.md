@@ -11,9 +11,9 @@
 
 ### Последние видео на канале
 <!-- YOUTUBE:START -->
+- [Враги ИИ (2 из 2) - Уроки Bolt #11 RU](https://www.youtube.com/watch?v=svjKgWsQqB8)
 - [Враги ИИ (1 из 2) - Уроки Bolt #10 RU](https://www.youtube.com/watch?v=25oyciP_ev4)
 - [Здоровье и урон - Уроки Bolt #9 RU](https://www.youtube.com/watch?v=LJ8tJK_8STM)
-- [Двери и Ключи - Уроки Bolt #8 RU](https://www.youtube.com/watch?v=SjA-uUP4V8o)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
