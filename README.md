@@ -11,9 +11,9 @@
 
 ### Последние видео на канале
 <!-- YOUTUBE:START -->
+- [Атака дальнего боя снарядами - Уроки Bolt #12 RU](https://www.youtube.com/watch?v=800ofkYU-uc)
 - [Враги ИИ (2 из 2) - Уроки Bolt #11 RU](https://www.youtube.com/watch?v=svjKgWsQqB8)
 - [Враги ИИ (1 из 2) - Уроки Bolt #10 RU](https://www.youtube.com/watch?v=25oyciP_ev4)
-- [Здоровье и урон - Уроки Bolt #9 RU](https://www.youtube.com/watch?v=LJ8tJK_8STM)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
