@@ -11,9 +11,9 @@
 
 ### Последние видео на канале
 <!-- YOUTUBE:START -->
+- [Главное меню - Уроки Bolt #14 RU](https://www.youtube.com/watch?v=gzylXgqcs5Y)
 - [Меню паузы - Уроки Bolt #13 RU](https://www.youtube.com/watch?v=awBW1dzlXNA)
 - [Атака дальнего боя снарядами - Уроки Bolt #12 RU](https://www.youtube.com/watch?v=800ofkYU-uc)
-- [Враги ИИ (2 из 2) - Уроки Bolt #11 RU](https://www.youtube.com/watch?v=svjKgWsQqB8)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
