@@ -11,9 +11,9 @@
 
 ### Последние видео на канале
 <!-- YOUTUBE:START -->
+- [JavaScript Основы для Начинающих - Полный Курс за 5 часов [2021]](https://www.youtube.com/watch?v=003BKwPBpd4)
 - [Главное меню - Уроки Bolt #14 RU](https://www.youtube.com/watch?v=gzylXgqcs5Y)
 - [Меню паузы - Уроки Bolt #13 RU](https://www.youtube.com/watch?v=awBW1dzlXNA)
-- [Атака дальнего боя снарядами - Уроки Bolt #12 RU](https://www.youtube.com/watch?v=800ofkYU-uc)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
