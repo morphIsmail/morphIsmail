@@ -11,9 +11,9 @@
 
 ### Последние видео на канале
 <!-- YOUTUBE:START -->
-- [Обзор курса - Игра на Vue.js [2021]](https://www.youtube.com/watch?v=Al13nM3D1Fw)
+- [Обзор структуры файлов - Игра на Vue.js [2021] Курс по Vue.js, Урок 2](https://www.youtube.com/watch?v=w26QT_mO6kU)
+- [Обзор курса - Игра на Vue.js [2021] Курс по Vue.js, Урок 1](https://www.youtube.com/watch?v=Al13nM3D1Fw)
 - [JavaScript Основы для Начинающих - Полный Курс за 5 часов [2021]](https://www.youtube.com/watch?v=003BKwPBpd4)
-- [Главное меню - Уроки Bolt #14 RU](https://www.youtube.com/watch?v=gzylXgqcs5Y)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
