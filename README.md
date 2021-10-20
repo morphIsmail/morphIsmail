@@ -11,9 +11,9 @@
 
 ### Последние видео на канале
 <!-- YOUTUBE:START -->
+- [Работа над интерфейсом игры - Игра на Vue.js [2021] Курс по Vue.js, Урок 3](https://www.youtube.com/watch?v=_SCoSiCGJsQ)
 - [Обзор структуры файлов - Игра на Vue.js [2021] Курс по Vue.js, Урок 2](https://www.youtube.com/watch?v=w26QT_mO6kU)
 - [Обзор курса - Игра на Vue.js [2021] Курс по Vue.js, Урок 1](https://www.youtube.com/watch?v=Al13nM3D1Fw)
-- [JavaScript Основы для Начинающих - Полный Курс за 5 часов [2021]](https://www.youtube.com/watch?v=003BKwPBpd4)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
