@@ -11,9 +11,9 @@
 
 ### Последние видео на канале
 <!-- YOUTUBE:START -->
+- [Циклы и методы на Vue - Игра на Vue.js [2021] Курс по Vue.js, Урок 9](https://www.youtube.com/watch?v=aeDtnp2qNXQ)
 - [Обработка событий на Vue - Игра на Vue.js [2021] Курс по Vue.js, Урок 8](https://www.youtube.com/watch?v=UkyrnOLBSL8)
 - [Начало работы с Vue - Игра на Vue.js [2021] Курс по Vue.js, Урок 7](https://www.youtube.com/watch?v=wXdzFnpA7Bc)
-- [Экран с результатами - Игра на Vue.js [2021] Курс по Vue.js, Урок 6](https://www.youtube.com/watch?v=BdNEfo_qlxQ)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
