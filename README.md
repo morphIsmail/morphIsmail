@@ -11,9 +11,9 @@
 
 ### Последние видео на канале
 <!-- YOUTUBE:START -->
+- [Честное мнение о Windows 11, Подробный обзор всей операционной системы Windows 11](https://www.youtube.com/watch?v=pCJDZH1ZBXY)
 - [Циклы и методы на Vue - Игра на Vue.js [2021] Курс по Vue.js, Урок 9](https://www.youtube.com/watch?v=aeDtnp2qNXQ)
 - [Обработка событий на Vue - Игра на Vue.js [2021] Курс по Vue.js, Урок 8](https://www.youtube.com/watch?v=UkyrnOLBSL8)
-- [Начало работы с Vue - Игра на Vue.js [2021] Курс по Vue.js, Урок 7](https://www.youtube.com/watch?v=wXdzFnpA7Bc)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
