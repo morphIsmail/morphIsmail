@@ -11,9 +11,9 @@
 
 ### Последние видео на канале
 <!-- YOUTUBE:START -->
+- [Приложение в VK - Игра на Vue.js [2021] Курс по Vue.js, Урок 14](https://www.youtube.com/watch?v=ykCm9o9bz7w)
 - [Работа с Git и GitHub - Игра на Vue.js [2021] Курс по Vue.js, Урок 13](https://www.youtube.com/watch?v=V476pfxl6GY)
 - [Музыка в игре на JavaScript - Игра на Vue.js [2021] Курс по Vue.js, Урок 12](https://www.youtube.com/watch?v=QuZcqomjwn0)
-- [Вычисляемые свойства на Vue - Игра на Vue.js [2021] Курс по Vue.js, Урок 11](https://www.youtube.com/watch?v=zJFL_IOqgGY)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
