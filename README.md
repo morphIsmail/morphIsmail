@@ -11,9 +11,9 @@
 
 ### Последние видео на канале
 <!-- YOUTUBE:START -->
+- [Frontend разработчик на HTML, CSS и JavaScript, Bootstrap, Vue, Git, Gulp](https://www.youtube.com/watch?v=xZWQP4Hf-lU)
 - [Куда двигаться дальше - Игра на Vue.js [2021] Курс по Vue.js, Урок 15](https://www.youtube.com/watch?v=Rzxzl7WrVTo)
 - [Приложение в VK - Игра на Vue.js [2021] Курс по Vue.js, Урок 14](https://www.youtube.com/watch?v=ykCm9o9bz7w)
-- [Работа с Git и GitHub - Игра на Vue.js [2021] Курс по Vue.js, Урок 13](https://www.youtube.com/watch?v=V476pfxl6GY)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
