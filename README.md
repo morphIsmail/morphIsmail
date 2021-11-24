@@ -11,9 +11,9 @@
 
 ### Последние видео на канале
 <!-- YOUTUBE:START -->
+- [#1 Введение в Gulp - Курс по Gulp 4 [2021]](https://www.youtube.com/watch?v=xv7_eNqd_eQ)
 - [Игра на Vue.js [2021] Курс по Vue.js, Уроки 1-15](https://www.youtube.com/watch?v=xCtocDQG6v0)
 - [Frontend разработчик на HTML, CSS и JavaScript, Bootstrap, Vue, Git, Gulp](https://www.youtube.com/watch?v=xZWQP4Hf-lU)
-- [Куда двигаться дальше - Игра на Vue.js [2021] Курс по Vue.js, Урок 15](https://www.youtube.com/watch?v=Rzxzl7WrVTo)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
