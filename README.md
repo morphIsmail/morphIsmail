@@ -11,9 +11,9 @@
 
 ### Последние видео на канале
 <!-- YOUTUBE:START -->
+- [#6 Обработка стилей в Gulp - Курс по Gulp 4 [2021]](https://www.youtube.com/watch?v=NvwxZzqPESs)
 - [#5 Константа с путями, Paths в Gulp - Курс по Gulp 4 [2021]](https://www.youtube.com/watch?v=J8qSayNAlQk)
 - [#4 Работа с пакетным менеджером NPM - Курс по Gulp 4 [2021]](https://www.youtube.com/watch?v=idqF-6tRAOk)
-- [#3 Инициализация проекта на Node.js NPM init - Курс по Gulp 4 [2021]](https://www.youtube.com/watch?v=XEgPMC8MaQU)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
