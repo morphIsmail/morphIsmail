@@ -11,9 +11,9 @@
 
 ### Последние видео на канале
 <!-- YOUTUBE:START -->
+- [#7 Отслеживание изменений в проекте Gulp Watch - Курс по Gulp 4 [2021]](https://www.youtube.com/watch?v=edy4ucMKPsc)
 - [#6 Обработка стилей в Gulp - Курс по Gulp 4 [2021]](https://www.youtube.com/watch?v=NvwxZzqPESs)
 - [#5 Константа с путями, Paths в Gulp - Курс по Gulp 4 [2021]](https://www.youtube.com/watch?v=J8qSayNAlQk)
-- [#4 Работа с пакетным менеджером NPM - Курс по Gulp 4 [2021]](https://www.youtube.com/watch?v=idqF-6tRAOk)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
