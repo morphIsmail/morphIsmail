@@ -11,9 +11,9 @@
 
 ### Последние видео на канале
 <!-- YOUTUBE:START -->
+- [#11 Плагин Imagemin в Gulp - Курс по Gulp 4 [2021]](https://www.youtube.com/watch?v=CPLmqMyPcOA)
 - [#10 Плагин Autoprefixer, Sourcemaps, Babel на Gulp - Курс по Gulp 4 [2021]](https://www.youtube.com/watch?v=MxCnxOfbCng)
 - [#9 Повторное использование сборки Gulp - Курс по Gulp 4 [2021]](https://www.youtube.com/watch?v=wSFJGunCcug)
-- [#8 Обработка скриптов в Gulp - Курс по Gulp 4 [2021]](https://www.youtube.com/watch?v=NPi8lDOM5i0)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
