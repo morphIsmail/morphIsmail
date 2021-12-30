@@ -11,9 +11,9 @@
 
 ### Последние видео на канале
 <!-- YOUTUBE:START -->
+- [ITDoctor - Подведение итогов, Планы на 2022 и бонусы к новому году](https://www.youtube.com/watch?v=2mapl7s6AoY)
 - [#11 Плагин Imagemin в Gulp - Курс по Gulp 4 [2021]](https://www.youtube.com/watch?v=CPLmqMyPcOA)
 - [#10 Плагин Autoprefixer, Sourcemaps, Babel на Gulp - Курс по Gulp 4 [2021]](https://www.youtube.com/watch?v=MxCnxOfbCng)
-- [#9 Повторное использование сборки Gulp - Курс по Gulp 4 [2021]](https://www.youtube.com/watch?v=wSFJGunCcug)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
