@@ -11,9 +11,9 @@
 
 ### Последние видео на канале
 <!-- YOUTUBE:START -->
+- [#13 Плагин Size в Gulp, Размеры файлов в терминале - Курс по Gulp 4 [2021]](https://www.youtube.com/watch?v=mmWR4psDisI)
 - [#12 Плагин HTMLmin в Gulp, Минификация HTML - Курс по Gulp 4 [2021]](https://www.youtube.com/watch?v=GI6Bl0z5rZ8)
 - [ITDoctor - Подведение итогов, Планы на 2022 и бонусы к новому году](https://www.youtube.com/watch?v=2mapl7s6AoY)
-- [#11 Плагин Imagemin в Gulp - Курс по Gulp 4 [2021]](https://www.youtube.com/watch?v=CPLmqMyPcOA)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
