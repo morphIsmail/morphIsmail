@@ -11,9 +11,9 @@
 
 ### Последние видео на канале
 <!-- YOUTUBE:START -->
+- [#15 Плагин Browser Sync в Gulp, Авто-обновление в браузере - Курс по Gulp 4 [2021]](https://www.youtube.com/watch?v=W2yysits8xI)
 - [#14 Плагин Newer в Gulp, Отслеживание только новых файлов - Курс по Gulp 4 [2021]](https://www.youtube.com/watch?v=fWJNHOYM0k4)
 - [#13 Плагин Size в Gulp, Размеры файлов в терминале - Курс по Gulp 4 [2021]](https://www.youtube.com/watch?v=mmWR4psDisI)
-- [#12 Плагин HTMLmin в Gulp, Минификация HTML - Курс по Gulp 4 [2021]](https://www.youtube.com/watch?v=GI6Bl0z5rZ8)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
