@@ -11,9 +11,9 @@
 
 ### Последние видео на канале
 <!-- YOUTUBE:START -->
+- [Невозможно загрузить файл, так как выполнение сценариев отключено в этой системе](https://www.youtube.com/watch?v=vObwhyh5h5I)
 - [#15 Плагин Browser Sync в Gulp, Авто-обновление в браузере - Курс по Gulp 4 [2021]](https://www.youtube.com/watch?v=W2yysits8xI)
 - [#14 Плагин Newer в Gulp, Отслеживание только новых файлов - Курс по Gulp 4 [2021]](https://www.youtube.com/watch?v=fWJNHOYM0k4)
-- [#13 Плагин Size в Gulp, Размеры файлов в терминале - Курс по Gulp 4 [2021]](https://www.youtube.com/watch?v=mmWR4psDisI)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
