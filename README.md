@@ -11,9 +11,9 @@
 
 ### Последние видео на канале
 <!-- YOUTUBE:START -->
+- [#16 Работа с Pug в Gulp, HTML Шаблонизатор Pug - Курс по Gulp 4 [2021]](https://www.youtube.com/watch?v=WTdlxVFwV-0)
 - [Невозможно загрузить файл, так как выполнение сценариев отключено в этой системе](https://www.youtube.com/watch?v=vObwhyh5h5I)
 - [#15 Плагин Browser Sync в Gulp, Авто-обновление в браузере - Курс по Gulp 4 [2021]](https://www.youtube.com/watch?v=W2yysits8xI)
-- [#14 Плагин Newer в Gulp, Отслеживание только новых файлов - Курс по Gulp 4 [2021]](https://www.youtube.com/watch?v=fWJNHOYM0k4)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
