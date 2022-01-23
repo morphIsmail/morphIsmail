@@ -11,9 +11,9 @@
 
 ### Последние видео на канале
 <!-- YOUTUBE:START -->
+- [Windows 11 Разделение окон на Вертикальных мониторах #Shorts](https://www.youtube.com/watch?v=iaeYPEWgu0g)
 - [#16 Работа с Pug в Gulp, HTML Шаблонизатор Pug - Курс по Gulp 4 [2021]](https://www.youtube.com/watch?v=WTdlxVFwV-0)
 - [Невозможно загрузить файл, так как выполнение сценариев отключено в этой системе](https://www.youtube.com/watch?v=vObwhyh5h5I)
-- [#15 Плагин Browser Sync в Gulp, Авто-обновление в браузере - Курс по Gulp 4 [2021]](https://www.youtube.com/watch?v=W2yysits8xI)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
