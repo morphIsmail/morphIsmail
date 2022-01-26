@@ -11,9 +11,9 @@
 
 ### Последние видео на канале
 <!-- YOUTUBE:START -->
+- [#17 Работа с Stylus в Gulp 4, CSS Препроцессор Stylus - Курс по Gulp 4 [2021]](https://www.youtube.com/watch?v=RTpUgkvEhXs)
 - [Windows 11 Разделение окон на Вертикальных мониторах #Shorts](https://www.youtube.com/watch?v=iaeYPEWgu0g)
 - [#16 Работа с Pug в Gulp, HTML Шаблонизатор Pug - Курс по Gulp 4 [2021]](https://www.youtube.com/watch?v=WTdlxVFwV-0)
-- [Невозможно загрузить файл, так как выполнение сценариев отключено в этой системе](https://www.youtube.com/watch?v=vObwhyh5h5I)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
