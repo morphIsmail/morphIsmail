@@ -11,9 +11,9 @@
 
 ### Последние видео на канале
 <!-- YOUTUBE:START -->
+- [#21 Итоги курса по изучению Gulp 4 - Курс по Gulp 4 [2021]](https://www.youtube.com/watch?v=bDrjTt5fctA)
 - [#20 Работа с Coffee Script на Gulp 4 - Курс по Gulp 4 [2021]](https://www.youtube.com/watch?v=tu6s4UV9Nps)
 - [#19 Работа с TypeScript на Gulp 4 - Курс по Gulp 4 [2021]](https://www.youtube.com/watch?v=zT4Z1iTMJlU)
-- [#18 Gulp Sass плагин установка - Курс по Gulp 4 [2021]](https://www.youtube.com/watch?v=RZ5WJro4Reo)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
