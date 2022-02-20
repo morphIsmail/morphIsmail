@@ -11,9 +11,9 @@
 
 ### Последние видео на канале
 <!-- YOUTUBE:START -->
+- [Анимация на CSS и JS, Анимация на сайте для начинающих](https://www.youtube.com/watch?v=vagLoF1MZac)
 - [Адаптивная верстка сайта с нуля по макету из Figma #1](https://www.youtube.com/watch?v=7ggnHk6xua8)
 - [GULP установка настройка и плагины в 2022. Gulp 4 полный курс](https://www.youtube.com/watch?v=-pEnMHmm4YE)
-- [#21 Итоги курса по изучению Gulp 4 - Курс по Gulp 4 [2021]](https://www.youtube.com/watch?v=bDrjTt5fctA)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
