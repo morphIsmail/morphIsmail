@@ -11,9 +11,9 @@
 
 ### Последние видео на канале
 <!-- YOUTUBE:START -->
+- [Мой телеграм бот ITDoctor Navigator Bot #shorts](https://www.youtube.com/watch?v=bM95Uv2nt58)
 - [Адаптивная верстка сайта с нуля по макету из Figma #5 CSS Flexbox](https://www.youtube.com/watch?v=PSMix6QLhR4)
 - [Меню быстрого поиска как на Mac в Windows 11 PowerToys Run #shorts](https://www.youtube.com/watch?v=imYkrUosWxs)
-- [Как cделать скриншот в Windows 10 и Windows 11 #shorts](https://www.youtube.com/watch?v=nmRdQcj-yKI)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
