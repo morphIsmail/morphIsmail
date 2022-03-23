@@ -11,9 +11,9 @@
 
 ### Последние видео на канале
 <!-- YOUTUBE:START -->
+- [Адаптивная верстка сайта с нуля по макету из Figma #10 Наши партнеры](https://www.youtube.com/watch?v=s9rWjyjvh88)
 - [Адаптивная верстка сайта с нуля по макету из Figma #9 Верстка раздела с текстом](https://www.youtube.com/watch?v=fcEhaocgnyw)
 - [Адаптивная верстка сайта с нуля по макету из Figma #8 Верстаем портфолио на CSS Grid](https://www.youtube.com/watch?v=SDPXwvp6qYI)
-- [Адаптивная верстка сайта с нуля по макету из Figma #7 CSS Grid и медиа запросы](https://www.youtube.com/watch?v=Crt4GIiOFJI)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
