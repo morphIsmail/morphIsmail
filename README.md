@@ -11,9 +11,9 @@
 
 ### Последние видео на канале
 <!-- YOUTUBE:START -->
+- [Адаптивная верстка сайта с нуля по макету из Figma #11 Отзывы](https://www.youtube.com/watch?v=mOZ3FolqC3U)
 - [Обзор на Boosty, эксклюзивный контент по подписке, YouTube, Telegram и Stepik](https://www.youtube.com/watch?v=8KEoT214klc)
 - [Адаптивная верстка сайта с нуля по макету из Figma #10 Наши партнеры](https://www.youtube.com/watch?v=s9rWjyjvh88)
-- [Адаптивная верстка сайта с нуля по макету из Figma #9 Верстка раздела с текстом](https://www.youtube.com/watch?v=fcEhaocgnyw)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
