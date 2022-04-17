@@ -11,9 +11,9 @@
 
 ### Последние видео на канале
 <!-- YOUTUBE:START -->
+- [Бесплатный курс-тренажер по прокачке скорости вёрстки на HTML и CSS, Про курсы на Udemy и Stepik](https://www.youtube.com/watch?v=sv6Kepe-DcA)
 - [Адаптивная верстка сайта с нуля по макету из Figma #15 Интерактивное меню сайта на Materialize](https://www.youtube.com/watch?v=lREfj0JG6-s)
 - [MAMP локальный сервер, установка и настройка MAMP, первая программа на PHP](https://www.youtube.com/watch?v=66zvdz7wJ24)
-- [Адаптивная верстка сайта с нуля по макету из Figma #14 Интерактив](https://www.youtube.com/watch?v=x3sec8IsFYY)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
