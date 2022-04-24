@@ -11,9 +11,9 @@
 
 ### Последние видео на канале
 <!-- YOUTUBE:START -->
+- [#18 Уроки Git+GitHub - Как сделать резервную копию всех своих репозиториев на GitHub](https://www.youtube.com/watch?v=HEw2-nE-h9Y)
 - [Адаптивная верстка сайта с нуля по макету из Figma #16 Модальное окно на Materialize](https://www.youtube.com/watch?v=s0-SNinOG24)
 - [Бесплатный курс-тренажер по прокачке скорости вёрстки на HTML и CSS, Про курсы на Udemy и Stepik](https://www.youtube.com/watch?v=sv6Kepe-DcA)
-- [Адаптивная верстка сайта с нуля по макету из Figma #15 Интерактивное меню сайта на Materialize](https://www.youtube.com/watch?v=lREfj0JG6-s)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
