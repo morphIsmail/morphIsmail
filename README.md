@@ -11,9 +11,9 @@
 
 ### Последние видео на канале
 <!-- YOUTUBE:START -->
+- [Какой редактор кода или IDE выбрать в 2022 году для разработчика](https://www.youtube.com/watch?v=h7y3nB7gWsE)
 - [Мой телеграм бот Авто коды регионов России #shorts](https://www.youtube.com/watch?v=q4dWG6KEfsE)
 - [#18 Уроки Git+GitHub - Как сделать резервную копию всех своих репозиториев на GitHub](https://www.youtube.com/watch?v=HEw2-nE-h9Y)
-- [Адаптивная верстка сайта с нуля по макету из Figma #16 Модальное окно на Materialize](https://www.youtube.com/watch?v=s0-SNinOG24)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
