@@ -11,9 +11,9 @@
 
 ### Последние видео на канале
 <!-- YOUTUBE:START -->
+- [Окно поверх других окон в Windows 11 Power Toys #shorts](https://www.youtube.com/watch?v=EDRkxqYP0zQ)
 - [Цветоподборщик Power Toys Пипетка в Windows 11 #shorts](https://www.youtube.com/watch?v=x8jtQgBCG84)
 - [Какой редактор кода или IDE выбрать в 2022 году для разработчика](https://www.youtube.com/watch?v=h7y3nB7gWsE)
-- [Мой телеграм бот Авто коды регионов России #shorts](https://www.youtube.com/watch?v=q4dWG6KEfsE)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
