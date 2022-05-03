@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
-- [Адаптивная верстка сайта с нуля по макету из Figma #16 Модальное окно на Materialize](https://www.youtube.com/watch?v=s0-SNinOG24)
-- [Бесплатный курс-тренажер по прокачке скорости вёрстки на HTML и CSS, Про курсы на Udemy и Stepik](https://www.youtube.com/watch?v=sv6Kepe-DcA)
-- [Адаптивная верстка сайта с нуля по макету из Figma #15 Интерактивное меню сайта на Materialize](https://www.youtube.com/watch?v=lREfj0JG6-s)
+- [Адаптивная верстка сайта с нуля по макету из Figma #17 Галерея изображений Materialize](https://www.youtube.com/watch?v=_n83ElYKRvg)
+- [Окно поверх других окон в Windows 11 Power Toys #shorts](https://www.youtube.com/watch?v=EDRkxqYP0zQ)
+- [Цветоподборщик Power Toys Пипетка в Windows 11 #shorts](https://www.youtube.com/watch?v=x8jtQgBCG84)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
