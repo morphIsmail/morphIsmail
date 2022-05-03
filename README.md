@@ -7,9 +7,7 @@
 
 Обучаю языкам HTML, CSS, JavaScript, PHP, работе с препроцессорами, сборщиками, бибилотеками, фреймворками, системой контроля версий Git,  а также многому другому из мира веб-технологий. 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morphIsmail&layout=compact&theme=dark)
-
-### Последние видео на канале
+### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
 - [Адаптивная верстка сайта с нуля по макету из Figma #16 Модальное окно на Materialize](https://www.youtube.com/watch?v=s0-SNinOG24)
 - [Бесплатный курс-тренажер по прокачке скорости вёрстки на HTML и CSS, Про курсы на Udemy и Stepik](https://www.youtube.com/watch?v=sv6Kepe-DcA)
@@ -37,16 +35,21 @@
 ![Unity](https://img.shields.io/badge/-Unity-333?style=for-the-badge&logo=Unity)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333?style=for-the-badge&logo=Photoshop)
 
-### Автору на кофе
-![Сбер VISA](https://img.shields.io/badge/Card-4274320032331582-333?style=for-the-badge&logo=visa&labelColor=08a652)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morphIsmail&layout=compact&theme=dark)
+
+### Донаты
+![Сбер VISA](https://img.shields.io/badge/Card-4274_3200_3233_1582-333?style=for-the-badge&logo=visa&labelColor=08a652)
 [![Yoomoney](https://img.shields.io/badge/-Yoomoney-7f2bfd?style=for-the-badge)](https://yasobe.ru/na/itdoctor)
-[![PayPal](https://img.shields.io/badge/-PayPal-0070ba?style=for-the-badge&logo=PayPal&logoColor=FF0000)](https://paypal.me/itdoctorstudio)
+[![Boosty](https://img.shields.io/badge/-Boosty-FFA318?style=for-the-badge)](https://boosty.to/itdoctor)
 
 ### Контакты
 [![YouTube](https://img.shields.io/badge/-YouTube-333?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/c/ITDoctor)
-[![Курсы на Udemy](https://img.shields.io/badge/-Udemy-333?style=for-the-badge&logo=Udemy&logoColor=fff)](https://www.udemy.com/user/useinov-ismail-asanovich/)
-[![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/itdoctorstudio)
+[![Курсы на Stepik](https://img.shields.io/badge/-Курсы_на_Stepik-08a652?style=for-the-badge)](https://stepik.org/users/387773773/teach)
+[![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/itdoctor_official)
 [![Bot](https://img.shields.io/badge/-Bot-333?style=for-the-badge)](https://t.me/itdoctorNavigatorBot?start)
-[![Instagram](https://img.shields.io/badge/-Instagram-333?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://instagram.com/ismail_asanovich)
 [![VK](https://img.shields.io/badge/-VK-333?style=for-the-badge&logo=Vk&logoColor=27A0D9)](https://vk.com/itdoctorstudio)
+[![Дзен](https://img.shields.io/badge/-Дзен-333?style=for-the-badge)](https://zen.yandex.ru/itdoctor)
+[![Rutube](https://img.shields.io/badge/-Rutube-333?style=for-the-badge)](https://rutube.ru/channel/23500045/)
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/morphIsmail)
+[![Instagram](https://img.shields.io/badge/-Instagram-333?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://instagram.com/ismail_asanovich)
+[![Курсы на Udemy](https://img.shields.io/badge/-Udemy-333?style=for-the-badge&logo=Udemy&logoColor=fff)](https://www.udemy.com/user/useinov-ismail-asanovich/)
