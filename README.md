@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Верстка сайта с нуля по макету из Figma, Курс марафон по верстке сайта](https://www.youtube.com/watch?v=8jC9bC2bjv0)
 - [Адаптивная верстка сайта с нуля по макету из Figma #18 Наставления и макет для верстки в подарок](https://www.youtube.com/watch?v=qQZ3PkiyjUI)
 - [Адаптивная верстка сайта с нуля по макету из Figma #17 Галерея изображений Materialize](https://www.youtube.com/watch?v=_n83ElYKRvg)
-- [Окно поверх других окон в Windows 11 Power Toys #shorts](https://www.youtube.com/watch?v=EDRkxqYP0zQ)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
