@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Как компилировать SASS в VS Code с помощью Live Sass Compiler](https://www.youtube.com/watch?v=FagI25iqhSI)
 - [Open Server локальный сервер, установка и настройка Open Server, работа с PHP и MySQL](https://www.youtube.com/watch?v=cVXWqyE6HoA)
 - [Как работать с модулем pm2, автозапуск серверов node.js при старте ПК](https://www.youtube.com/watch?v=fvwMPHiplOI)
-- [Верстка сайта с нуля по макету из Figma, Курс марафон по верстке сайта](https://www.youtube.com/watch?v=8jC9bC2bjv0)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
