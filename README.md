@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Как проверять адаптивную верстку на разных устройствах, Плагин Emmet Review](https://www.youtube.com/watch?v=lGoovPlV2rE)
 - [#19 Уроки Git+GitHub - Как сделать Fork и Pull Request и что это такое](https://www.youtube.com/watch?v=1upalKiDeEI)
 - [Как компилировать SASS в VS Code с помощью Live Sass Compiler](https://www.youtube.com/watch?v=FagI25iqhSI)
-- [Open Server локальный сервер, установка и настройка Open Server, работа с PHP и MySQL](https://www.youtube.com/watch?v=cVXWqyE6HoA)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
