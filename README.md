@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Как верстать сайты быстро, редактор VS Code и плагин Emmet](https://www.youtube.com/watch?v=WJmLcnCk7OU)
 - [Векторные иконки в формате SVG и шрифты от разработчиков Open Suse](https://www.youtube.com/watch?v=8nFhL91XuPI)
 - [Как проверять адаптивную верстку на разных устройствах, Плагин Emmet Review](https://www.youtube.com/watch?v=lGoovPlV2rE)
-- [#19 Уроки Git+GitHub - Как сделать Fork и Pull Request и что это такое](https://www.youtube.com/watch?v=1upalKiDeEI)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
