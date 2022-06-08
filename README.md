@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Подробный видео курс по Materialize CSS, Как создать сайт на Materialize CSS](https://www.youtube.com/watch?v=pmK5Kdq-BVM)
 - [#1 Уроки Node.js - Как установить Node.js и начать работать с Node.js](https://www.youtube.com/watch?v=II_kZ8Pp0g0)
 - [Как верстать сайты быстро, редактор VS Code и плагин Emmet](https://www.youtube.com/watch?v=WJmLcnCk7OU)
-- [Векторные иконки в формате SVG и шрифты от разработчиков Open Suse](https://www.youtube.com/watch?v=8nFhL91XuPI)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
