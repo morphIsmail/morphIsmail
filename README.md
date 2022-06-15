@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#2 Подробный видео курс по Materialize CSS, Цвет фона и текста на Materialize CSS](https://www.youtube.com/watch?v=ajYPTCUKN1Q)
 - [#2 Уроки Node.js - Что такое NPM и как начать работать с пакетным менеджером Node.js](https://www.youtube.com/watch?v=S681T474sUA)
-- [Подробный видео курс по Materialize CSS, Как создать сайт на Materialize CSS](https://www.youtube.com/watch?v=pmK5Kdq-BVM)
-- [#1 Уроки Node.js - Как установить Node.js и начать работать с Node.js](https://www.youtube.com/watch?v=II_kZ8Pp0g0)
+- [#1 Подробный видео курс по Materialize CSS, Как создать сайт на Materialize CSS](https://www.youtube.com/watch?v=pmK5Kdq-BVM)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
