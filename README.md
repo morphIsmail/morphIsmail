@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#3 Уроки Node.js - Как создать сервер на Node.js, Пишем Hello World на Node.js](https://www.youtube.com/watch?v=NwPQekjP6G8)
 - [Слияние веток Git, разрешение конфликта слияния и работа в VS Code, Git Graph и Терминале](https://www.youtube.com/watch?v=fOYkAL3PCOk)
 - [#2 Подробный видео курс по Materialize CSS, Цвет фона и текста на Materialize CSS](https://www.youtube.com/watch?v=ajYPTCUKN1Q)
-- [#2 Уроки Node.js - Что такое NPM и как начать работать с пакетным менеджером Node.js](https://www.youtube.com/watch?v=S681T474sUA)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
