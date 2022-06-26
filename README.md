@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#3 Подробный видео курс по Materialize CSS, Адаптивная сетка на Materialize CSS](https://www.youtube.com/watch?v=Q0WEUTrRFbI)
 - [#3 Уроки Node.js - Как создать сервер на Node.js, Пишем Hello World на Node.js](https://www.youtube.com/watch?v=NwPQekjP6G8)
 - [Слияние веток Git, разрешение конфликта слияния и работа в VS Code, Git Graph и Терминале](https://www.youtube.com/watch?v=fOYkAL3PCOk)
-- [#2 Подробный видео курс по Materialize CSS, Цвет фона и текста на Materialize CSS](https://www.youtube.com/watch?v=ajYPTCUKN1Q)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
