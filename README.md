@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#4 Подробный видео курс по Materialize CSS, Выравнивание текста и скрытие на Materialize CSS](https://www.youtube.com/watch?v=eTPriyJnfX4)
 - [#4 Уроки Node.js - Как создать сервер на Node.js, Пишем Hello World на Express](https://www.youtube.com/watch?v=cpDK-uzBQHE)
 - [#3 Подробный видео курс по Materialize CSS, Адаптивная сетка на Materialize CSS](https://www.youtube.com/watch?v=Q0WEUTrRFbI)
-- [#3 Уроки Node.js - Как создать сервер на Node.js, Пишем Hello World на Node.js](https://www.youtube.com/watch?v=NwPQekjP6G8)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
