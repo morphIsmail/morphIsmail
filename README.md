@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#5 Уроки Node.js - Как создать настольное приложение, фреймворк Electron.js](https://www.youtube.com/watch?v=zmm-gTiO9DY)
 - [#4 Подробный видео курс по Materialize CSS, Выравнивание текста и скрытие на Materialize CSS](https://www.youtube.com/watch?v=eTPriyJnfX4)
 - [#4 Уроки Node.js - Как создать сервер на Node.js, Пишем Hello World на Express](https://www.youtube.com/watch?v=cpDK-uzBQHE)
-- [#3 Подробный видео курс по Materialize CSS, Адаптивная сетка на Materialize CSS](https://www.youtube.com/watch?v=Q0WEUTrRFbI)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
