@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#6 Подробный видео курс по Materialize CSS, Иконки и анимация кнопок на Materialize CSS](https://www.youtube.com/watch?v=UGYpAODnhf8)
 - [#6 Уроки Node.js - Как экспортировать и импортировать модули на Node.js](https://www.youtube.com/watch?v=cD5blM23Bcw)
 - [#5 Подробный видео курс по Materialize CSS, Адаптивное фото и видео на Materialize CSS](https://www.youtube.com/watch?v=wtsm4EDiVDc)
-- [#5 Уроки Node.js - Как создать настольное приложение, фреймворк Electron.js](https://www.youtube.com/watch?v=zmm-gTiO9DY)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
