@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#7 Уроки Node.js - Средства асинхронного программирования, две популярные модели Node.js](https://www.youtube.com/watch?v=rd-ZecLGa-k)
 - [#6 Подробный видео курс по Materialize CSS, Иконки и анимация кнопок на Materialize CSS](https://www.youtube.com/watch?v=UGYpAODnhf8)
 - [#6 Уроки Node.js - Как экспортировать и импортировать модули на Node.js](https://www.youtube.com/watch?v=cD5blM23Bcw)
-- [#5 Подробный видео курс по Materialize CSS, Адаптивное фото и видео на Materialize CSS](https://www.youtube.com/watch?v=wtsm4EDiVDc)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
