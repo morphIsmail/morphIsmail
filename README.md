@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#8 Уроки Node.js - Модуль dotenv на Node.js и структура проекта Node.js](https://www.youtube.com/watch?v=OFRVbnkWndM)
 - [#7 Подробный видео курс по Materialize CSS, Адаптивные таблицы на Materialize CSS и тень](https://www.youtube.com/watch?v=s8bY795EOpQ)
 - [#7 Уроки Node.js - Средства асинхронного программирования, две популярные модели Node.js](https://www.youtube.com/watch?v=rd-ZecLGa-k)
-- [#6 Подробный видео курс по Materialize CSS, Иконки и анимация кнопок на Materialize CSS](https://www.youtube.com/watch?v=UGYpAODnhf8)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
