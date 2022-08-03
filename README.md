@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#9 Уроки Node.js - Настройка маршрутов приложения на Node.js и работа с curl](https://www.youtube.com/watch?v=8E96d3j6n4c)
 - [#8 Подробный видео курс по Materialize CSS, Адаптивный текст на Materialize CSS и типографика](https://www.youtube.com/watch?v=PTqyrotMwEU)
 - [#8 Уроки Node.js - Модуль dotenv на Node.js и структура проекта Node.js](https://www.youtube.com/watch?v=OFRVbnkWndM)
-- [#7 Подробный видео курс по Materialize CSS, Адаптивные таблицы на Materialize CSS и тень](https://www.youtube.com/watch?v=s8bY795EOpQ)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
