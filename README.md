@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#10 Уроки Node.js - Добавление базы данных и проектирование API на Node.js](https://www.youtube.com/watch?v=39OF63RfOEA)
 - [#9 Подробный видео курс по Materialize CSS, Коллекции и бейджи на Materialize CSS](https://www.youtube.com/watch?v=0UxYhnjZPJ4)
 - [Как взять первый заказ и заработать деньги на фрилансе #shorts](https://www.youtube.com/watch?v=JoolWyeMOpo)
-- [Как взять первый заказ на фрилансе, выполнить первый заказ на фрилансе и как заработать на фрилансе](https://www.youtube.com/watch?v=LV-9_w39Wqg)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
