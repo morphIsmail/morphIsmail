@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#11 Уроки Node.js - Добавление записи в базу данных SQLite3 на Node.js](https://www.youtube.com/watch?v=z95sX1r0uHA)
 - [#10 Подробный видео курс по Materialize CSS, Кнопки и хлебные крошки на Materialize CSS](https://www.youtube.com/watch?v=m-yyxFWgVZY)
 - [#10 Уроки Node.js - Добавление базы данных и проектирование API на Node.js](https://www.youtube.com/watch?v=39OF63RfOEA)
-- [#9 Подробный видео курс по Materialize CSS, Коллекции и бейджи на Materialize CSS](https://www.youtube.com/watch?v=0UxYhnjZPJ4)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
