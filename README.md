@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#11 Подробный видео курс по Materialize CSS, Прелоадер футер прогресс-бар и пагинация](https://www.youtube.com/watch?v=5CGfTYcKgsw)
 - [#11 Уроки Node.js - Добавление записи в базу данных SQLite3 на Node.js](https://www.youtube.com/watch?v=z95sX1r0uHA)
 - [#10 Подробный видео курс по Materialize CSS, Кнопки и хлебные крошки на Materialize CSS](https://www.youtube.com/watch?v=m-yyxFWgVZY)
-- [#10 Уроки Node.js - Добавление базы данных и проектирование API на Node.js](https://www.youtube.com/watch?v=39OF63RfOEA)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
