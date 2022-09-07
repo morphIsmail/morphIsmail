@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#14 Подробный видео курс по Materialize CSS, Мобильное боковое меню на Materialize CSS](https://www.youtube.com/watch?v=1O_VMlyol3k)
 - [#13 Подробный видео курс по Materialize CSS, Плавающее меню на Materialize CSS](https://www.youtube.com/watch?v=bvQsXNYXVqo)
 - [#13 Уроки Node.js - Как подключить Bootstrap на Node.js и добавить запись в БД](https://www.youtube.com/watch?v=Npul3QrZEvY)
-- [#12 Подробный видео курс по Materialize CSS, Карточки на Materialize CSS](https://www.youtube.com/watch?v=yBJdRXTfGL4)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
