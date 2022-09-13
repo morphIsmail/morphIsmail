@@ -38,7 +38,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morphIsmail&layout=compact&theme=dark)
 
 ### Донаты
-![Сбер VISA](https://img.shields.io/badge/Card-4274_3200_3233_1582-333?style=for-the-badge&logo=visa&labelColor=08a652)
 [![Yoomoney](https://img.shields.io/badge/-Yoomoney-7f2bfd?style=for-the-badge)](https://yasobe.ru/na/itdoctor)
 [![Boosty](https://img.shields.io/badge/-Boosty-FFA318?style=for-the-badge)](https://boosty.to/itdoctor)
 
