@@ -9,6 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Адаптивная верстка сайта с нуля по макету из Figma #17 Галерея изображений Materialize](https://www.youtube.com/watch?v=_n83ElYKRvg)
+- [Окно поверх других окон в Windows 11 Power Toys #shorts](https://www.youtube.com/watch?v=EDRkxqYP0zQ)
+- [Цветоподборщик Power Toys Пипетка в Windows 11 #shorts](https://www.youtube.com/watch?v=x8jtQgBCG84)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
