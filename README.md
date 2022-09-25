@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Как сделать параллакс эффект на Materialize CSS, Подробный видео курс по Materialize CSS #19](https://www.youtube.com/watch?v=6-X_ewqcWLg)
 - [Как сделать модальное окно на Materialize CSS, Подробный видео курс по Materialize CSS #18](https://www.youtube.com/watch?v=rdFwIJ7iXvM)
 - [Как сделать слайдер для сайта на Materialize CSS, Подробный видео курс по Materialize CSS #17](https://www.youtube.com/watch?v=ub5-ugQ-eeY)
-- [Аккордеон на HTML и CSS что это и зачем, Подробный видео курс по Materialize CSS #16](https://www.youtube.com/watch?v=7jOV0NrI6ow)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
