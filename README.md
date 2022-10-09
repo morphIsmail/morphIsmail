@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Как сделать красивые флажки на Materialize CSS, Подробный видео курс по Materialize CSS #23](https://www.youtube.com/watch?v=SPAFaU676FE)
 - [Как сделать автокомплит в поле ввода на Materialize CSS, Подробный видео курс по Materialize CSS #22](https://www.youtube.com/watch?v=NmaZh8SB0hw)
 - [Как сделать всплывающие подсказки на Materialize CSS, Подробный видео курс по Materialize CSS #21](https://www.youtube.com/watch?v=__KuvyOYLnw)
-- [Как сделать табы и что такое тосты на Materialize CSS, Подробный видео курс по Materialize CSS #20](https://www.youtube.com/watch?v=kic65Pn8IKY)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
