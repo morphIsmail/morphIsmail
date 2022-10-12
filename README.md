@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Что такое чипсы и с чем их едят, Подробный видео курс по Materialize CSS #24](https://www.youtube.com/watch?v=f_tZqPo29g4)
 - [Как сделать красивые флажки на Materialize CSS, Подробный видео курс по Materialize CSS #23](https://www.youtube.com/watch?v=SPAFaU676FE)
 - [Как сделать автокомплит в поле ввода на Materialize CSS, Подробный видео курс по Materialize CSS #22](https://www.youtube.com/watch?v=NmaZh8SB0hw)
-- [Как сделать всплывающие подсказки на Materialize CSS, Подробный видео курс по Materialize CSS #21](https://www.youtube.com/watch?v=__KuvyOYLnw)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
