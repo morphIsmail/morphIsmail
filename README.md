@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Выбор времени Timepicker на Materialize CSS, Подробный видео курс по Materialize CSS #26](https://www.youtube.com/watch?v=vjoE0kL8n4I)
 - [Выбор даты Datepicker на Materialize CSS, Подробный видео курс по Materialize CSS #25](https://www.youtube.com/watch?v=33G96JtWGTw)
 - [Что такое чипсы и с чем их едят, Подробный видео курс по Materialize CSS #24](https://www.youtube.com/watch?v=f_tZqPo29g4)
-- [Как сделать красивые флажки на Materialize CSS, Подробный видео курс по Materialize CSS #23](https://www.youtube.com/watch?v=SPAFaU676FE)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
