@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Select Как сделать Список с выбором на Materialize CSS, Подробный видео курс по Materialize CSS #28](https://www.youtube.com/watch?v=LsTVNMINWU8)
 - [Красивый Ползунок и Переключатель на Materialize CSS, Подробный видео курс по Materialize CSS #27](https://www.youtube.com/watch?v=ugqlEpFXeDg)
 - [Как установить WordPress локально на компьютер, Установка WordPress 6.0 на OpenServer](https://www.youtube.com/watch?v=TJFfTW6hsDw)
-- [Выбор времени Timepicker на Materialize CSS, Подробный видео курс по Materialize CSS #26](https://www.youtube.com/watch?v=vjoE0kL8n4I)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
