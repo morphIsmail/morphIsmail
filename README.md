@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Про HTML и CSS, Установка браузера и редактора кода, Язык HTML для новичков, Урок 1](https://www.youtube.com/watch?v=SWyNomjuEZA)
 - [Подведение итогов изучения фреймворка Materialize CSS, Подробный видео курс по Materialize CSS #30](https://www.youtube.com/watch?v=kqjB4lJGdWU)
 - [Красивая Форма - КАК сделать на Materialize CSS, Подробный видео курс по Materialize CSS #29](https://www.youtube.com/watch?v=Wg6CNSd6cxM)
-- [Select Как сделать Список с выбором на Materialize CSS, Подробный видео курс по Materialize CSS #28](https://www.youtube.com/watch?v=LsTVNMINWU8)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
