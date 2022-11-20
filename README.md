@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
-- [Cоздание первого проекта в редакторе VS Code и настройка редактора, Язык HTML для новичков, Урок 2](https://www.youtube.com/watch?v=CAVoGl7bxCI)
+- [Учим первые HTML теги и рассматриваем как устроена HTML страница, Урок 3](https://www.youtube.com/watch?v=-w2jBN5Yw94)
+- [Cоздание первого проекта в редакторе VS Code и настройка редактора, Урок 2](https://www.youtube.com/watch?v=CAVoGl7bxCI)
 - [Как работать с Git GUI в VS Code, Выполняем 7 команд БЕЗ терминала #21](https://www.youtube.com/watch?v=bfJQDEXzoT0)
-- [Почему HTML не работает, где результат, белый фон в браузере #shorts](https://www.youtube.com/watch?v=8OY5RjfwcpE)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
