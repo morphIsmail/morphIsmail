@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Трейлер курса Frontend разработчик на HTML, CSS и JavaScript](https://www.youtube.com/watch?v=yshghq3oyBs)
 - [Как задавать путь к файлу на HTML, новые HTML теги и задание, Урок 4](https://www.youtube.com/watch?v=goMNbCP0szk)
 - [Учим первые HTML теги и рассматриваем как устроена HTML страница, Урок 3](https://www.youtube.com/watch?v=-w2jBN5Yw94)
-- [Cоздание первого проекта в редакторе VS Code и настройка редактора, Урок 2](https://www.youtube.com/watch?v=CAVoGl7bxCI)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
