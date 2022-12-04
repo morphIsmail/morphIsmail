@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Как создавать таблицы на HTML, новые теги и задание, Урок 6](https://www.youtube.com/watch?v=MveZRm7L_50)
 - [Адаптивная верстка сайта с нуля по макету из Figma #shorts](https://www.youtube.com/watch?v=HGRXXSfSIsw)
 - [Как создавать списки и гиперссылки на языке HTML, Урок 5](https://www.youtube.com/watch?v=vgJXhim8sLM)
-- [Трейлер курса Frontend разработчик на HTML, CSS и JavaScript](https://www.youtube.com/watch?v=yshghq3oyBs)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
