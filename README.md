@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Блочные и строчные теги на HTML, работа с текстом на HTML, Урок 7](https://www.youtube.com/watch?v=o_WX6UjdZu8)
 - [Как создавать таблицы на HTML, новые теги и задание, Урок 6](https://www.youtube.com/watch?v=MveZRm7L_50)
 - [Адаптивная верстка сайта с нуля по макету из Figma #shorts](https://www.youtube.com/watch?v=HGRXXSfSIsw)
-- [Как создавать списки и гиперссылки на языке HTML, Урок 5](https://www.youtube.com/watch?v=vgJXhim8sLM)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
