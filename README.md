@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [План обучения созданию сайтов с нуля #shorts](https://www.youtube.com/watch?v=miFgvjvlT7s)
 - [Блочные и строчные теги на HTML, работа с текстом на HTML, Урок 7](https://www.youtube.com/watch?v=o_WX6UjdZu8)
 - [Как создавать таблицы на HTML, новые теги и задание, Урок 6](https://www.youtube.com/watch?v=MveZRm7L_50)
-- [Адаптивная верстка сайта с нуля по макету из Figma #shorts](https://www.youtube.com/watch?v=HGRXXSfSIsw)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
