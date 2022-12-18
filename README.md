@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Цвет и Спецсимволы на HTML, таблица спецсимволов и RGB цвет, Урок 10](https://www.youtube.com/watch?v=8kSM4zEyXCU)
 - [Универсальные атрибуты на HTML, идентификаторы и классы, Урок 9](https://www.youtube.com/watch?v=J3QJFTuuico)
 - [Как создавать формы на HTML, новые теги и задание, Урок 8](https://www.youtube.com/watch?v=K-m6WwQ35zo)
-- [План обучения созданию сайтов с нуля #shorts](https://www.youtube.com/watch?v=miFgvjvlT7s)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
