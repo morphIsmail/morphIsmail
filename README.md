@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [CSS селекторы что это и как с ними работать, Урок 1](https://www.youtube.com/watch?v=cxvhHXGlUF0)
 - [Цвет и Спецсимволы на HTML, таблица спецсимволов и RGB цвет, Урок 10](https://www.youtube.com/watch?v=8kSM4zEyXCU)
 - [Универсальные атрибуты на HTML, идентификаторы и классы, Урок 9](https://www.youtube.com/watch?v=J3QJFTuuico)
-- [Как создавать формы на HTML, новые теги и задание, Урок 8](https://www.youtube.com/watch?v=K-m6WwQ35zo)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
