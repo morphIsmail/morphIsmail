@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [10 способов выровнять элемент по центру на HTML и CSS](https://www.youtube.com/watch?v=DTo4CevwBXI)
 - [CSS селекторы что это и как с ними работать, Урок 1](https://www.youtube.com/watch?v=cxvhHXGlUF0)
 - [Цвет и Спецсимволы на HTML, таблица спецсимволов и RGB цвет, Урок 10](https://www.youtube.com/watch?v=8kSM4zEyXCU)
-- [Универсальные атрибуты на HTML, идентификаторы и классы, Урок 9](https://www.youtube.com/watch?v=J3QJFTuuico)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
