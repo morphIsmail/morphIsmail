@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Чтобы выучить АНГЛИЙСКИЙ язык я делаю это каждый день!](https://www.youtube.com/watch?v=Kh3mVlTAyvA)
 - [Трейлер курса Верстаем 8 сайтов по макету из Figma в портфолио, курс на Stepik](https://www.youtube.com/watch?v=YciPS9jqKfM)
 - [10 способов выровнять элемент по центру на HTML и CSS](https://www.youtube.com/watch?v=DTo4CevwBXI)
-- [CSS селекторы что это и как с ними работать, Урок 1](https://www.youtube.com/watch?v=cxvhHXGlUF0)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
