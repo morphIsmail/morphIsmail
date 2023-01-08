@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Обновление NPM пакетов через NCU, Ошибка с del и imagemin](https://www.youtube.com/watch?v=O9AxI_78FgQ)
 - [Практика по JavaScript для новичков, Задача 1 #shorts](https://www.youtube.com/watch?v=_DCVyFAE6L4)
 - [Чтобы выучить АНГЛИЙСКИЙ язык я делаю это каждый день!](https://www.youtube.com/watch?v=Kh3mVlTAyvA)
-- [Трейлер курса Верстаем 8 сайтов по макету из Figma в портфолио, курс на Stepik](https://www.youtube.com/watch?v=YciPS9jqKfM)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
