@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Как вставить картинку на CSS, Язык CSS для новичков, Урок 2](https://www.youtube.com/watch?v=AmuL14K-rTo)
 - [Обновление NPM пакетов через NCU, Ошибка с del и imagemin](https://www.youtube.com/watch?v=O9AxI_78FgQ)
 - [Практика по JavaScript для новичков, Задача 1 #shorts](https://www.youtube.com/watch?v=_DCVyFAE6L4)
-- [Чтобы выучить АНГЛИЙСКИЙ язык я делаю это каждый день!](https://www.youtube.com/watch?v=Kh3mVlTAyvA)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
