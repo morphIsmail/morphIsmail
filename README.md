@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Размеры элементов на CSS, Ширина и высота блока, Урок 4](https://www.youtube.com/watch?v=0IVydsao6zc)
 - [Границы и скругления на CSS, Свойство border и border radius, Урок 3](https://www.youtube.com/watch?v=bfAs8Kdt0T8)
 - [Как вставить картинку на CSS, Язык CSS для новичков, Урок 2](https://www.youtube.com/watch?v=AmuL14K-rTo)
-- [Обновление NPM пакетов через NCU, Ошибка с del и imagemin](https://www.youtube.com/watch?v=O9AxI_78FgQ)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
