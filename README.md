@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Практика по JavaScript для новичков, Задача 3 #shorts](https://www.youtube.com/watch?v=bpD_2F3y0cg)
 - [Практика по JavaScript для новичков, Задача 2 #shorts](https://www.youtube.com/watch?v=3fYRLW8dja0)
 - [Размеры элементов на CSS, Ширина и высота блока, Урок 4](https://www.youtube.com/watch?v=0IVydsao6zc)
-- [Границы и скругления на CSS, Свойство border и border radius, Урок 3](https://www.youtube.com/watch?v=bfAs8Kdt0T8)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
