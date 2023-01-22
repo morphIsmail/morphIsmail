@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Работа с шрифтом и текстом на CSS, Язык CSS для новичков, Урок 5](https://www.youtube.com/watch?v=qeq4uHbRh_U)
 - [Практика по JavaScript для новичков, Задача 3 #shorts](https://www.youtube.com/watch?v=bpD_2F3y0cg)
 - [Практика по JavaScript для новичков, Задача 2 #shorts](https://www.youtube.com/watch?v=3fYRLW8dja0)
-- [Размеры элементов на CSS, Ширина и высота блока, Урок 4](https://www.youtube.com/watch?v=0IVydsao6zc)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
