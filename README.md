@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Практика по JavaScript для новичков, Задача 5 #shorts](https://www.youtube.com/watch?v=Dykjd_UTjU4)
 - [Практика по JavaScript для новичков, Задача 4 #shorts](https://www.youtube.com/watch?v=BbeEbaeVL5I)
 - [Работа с шрифтом и текстом на CSS, Язык CSS для новичков, Урок 5](https://www.youtube.com/watch?v=qeq4uHbRh_U)
-- [Практика по JavaScript для новичков, Задача 3 #shorts](https://www.youtube.com/watch?v=bpD_2F3y0cg)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
