@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Блочная модель документа на CSS, Язык CSS для новичков, Урок 6](https://www.youtube.com/watch?v=G41WQUN6U8U)
 - [Практика по JavaScript для новичков, Задача 5 #shorts](https://www.youtube.com/watch?v=Dykjd_UTjU4)
 - [Практика по JavaScript для новичков, Задача 4 #shorts](https://www.youtube.com/watch?v=BbeEbaeVL5I)
-- [Работа с шрифтом и текстом на CSS, Язык CSS для новичков, Урок 5](https://www.youtube.com/watch?v=qeq4uHbRh_U)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
