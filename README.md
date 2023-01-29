@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Почему хлебные крошки имеют такое название? #shorts](https://www.youtube.com/watch?v=GvHBXevtrvM)
 - [Практика по JavaScript для новичков, Лайфхак 2 #shorts](https://www.youtube.com/watch?v=2bthBZOwBoc)
 - [Практика по JavaScript для новичков, Лайфхак 1 #shorts](https://www.youtube.com/watch?v=yfGbHWuCGC4)
-- [Практика по JavaScript для новичков, Задача 6 #shorts](https://www.youtube.com/watch?v=7rpNpGJf3g0)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
