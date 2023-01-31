@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Практика по JavaScript для новичков, Задача 7 #shorts](https://www.youtube.com/watch?v=0HJgSPz3B4E)
 - [Псевдоклассы и псевдоэлементы на CSS, Язык CSS для новичков, Урок 7](https://www.youtube.com/watch?v=G37gg6Gjzn4)
 - [Почему хлебные крошки имеют такое название? #shorts](https://www.youtube.com/watch?v=GvHBXevtrvM)
-- [Практика по JavaScript для новичков, Лайфхак 2 #shorts](https://www.youtube.com/watch?v=2bthBZOwBoc)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
