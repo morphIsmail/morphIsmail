@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Flexbox на CSS и свойства для работы с флексами, Урок 8](https://www.youtube.com/watch?v=mHUdQKm2iKY)
 - [Практика по JavaScript для новичков, Задача 7 #shorts](https://www.youtube.com/watch?v=0HJgSPz3B4E)
 - [Псевдоклассы и псевдоэлементы на CSS, Язык CSS для новичков, Урок 7](https://www.youtube.com/watch?v=G37gg6Gjzn4)
-- [Почему хлебные крошки имеют такое название? #shorts](https://www.youtube.com/watch?v=GvHBXevtrvM)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
