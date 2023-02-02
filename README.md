@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Практика по JavaScript для новичков, Задача 8 #shorts](https://www.youtube.com/watch?v=NPWBvggTARQ)
 - [Flexbox на CSS и свойства для работы с флексами, Урок 8](https://www.youtube.com/watch?v=mHUdQKm2iKY)
 - [Практика по JavaScript для новичков, Задача 7 #shorts](https://www.youtube.com/watch?v=0HJgSPz3B4E)
-- [Псевдоклассы и псевдоэлементы на CSS, Язык CSS для новичков, Урок 7](https://www.youtube.com/watch?v=G37gg6Gjzn4)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
