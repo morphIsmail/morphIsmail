@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Практика по JavaScript для новичков, Задача 10 #shorts](https://www.youtube.com/watch?v=h3HT84isCBQ)
 - [Практика по JavaScript для новичков, Задача 9 #shorts](https://www.youtube.com/watch?v=-tEYc3t6m4s)
 - [Практика по JavaScript для новичков, Задача 8 #shorts](https://www.youtube.com/watch?v=NPWBvggTARQ)
-- [Flexbox на CSS и свойства для работы с флексами, Урок 8](https://www.youtube.com/watch?v=mHUdQKm2iKY)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
