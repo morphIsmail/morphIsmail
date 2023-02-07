@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Практика по JavaScript для новичков, Задача 12 #shorts](https://www.youtube.com/watch?v=0sRdLJIlfwM)
 - [Практика по JavaScript для новичков, Задача 11 #shorts](https://www.youtube.com/watch?v=d-jEt5YQM2Q)
 - [Создаем меню на HTML и CSS, практика + домашнее задание, Урок 9](https://www.youtube.com/watch?v=Nhf1Uni-Wn8)
-- [Практика по JavaScript для новичков, Задача 10 #shorts](https://www.youtube.com/watch?v=h3HT84isCBQ)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
