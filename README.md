@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Chat GPT FAQ - ответы на часто задаваемые вопросы #shorts](https://www.youtube.com/watch?v=OBvDrSwws0s)
 - [Практика по JavaScript для новичков, Задача 14 #shorts](https://www.youtube.com/watch?v=Qr3quzBuGzw)
 - [Практика по JavaScript для новичков, Задача 13 #shorts](https://www.youtube.com/watch?v=ipyHkJj2ZyI)
-- [Верстаем на HTML и CSS, практика + домашнее задание, Урок 10](https://www.youtube.com/watch?v=2_Q9LNld_f8)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
