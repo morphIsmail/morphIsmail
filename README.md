@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Практика по JavaScript для новичков, Задача 19 #shorts](https://www.youtube.com/watch?v=DiNjLU_-YN8)
 - [Photoshop верстка по макету на HTML и CSS, Урок 13](https://www.youtube.com/watch?v=IAXQitL1elE)
 - [Практика по JavaScript для новичков, Задача 18 #shorts](https://www.youtube.com/watch?v=Qsym0niLrOU)
-- [Photoshop для верстки по макету, это должен ЗНАТЬ каждый, Урок 12](https://www.youtube.com/watch?v=b69Nef1I0DQ)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
