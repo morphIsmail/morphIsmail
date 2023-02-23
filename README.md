@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Первые настройки Git, Ошибка коммита как устранить? #shorts](https://www.youtube.com/watch?v=r59s6nM3ZIU)
 - [HTML для начинающих, Как сделать сайт, Как начинается веб разработка](https://www.youtube.com/watch?v=QlTSL8CHbiY)
 - [Практика по JavaScript для новичков, Задача 19 #shorts](https://www.youtube.com/watch?v=DiNjLU_-YN8)
-- [Photoshop верстка по макету на HTML и CSS, Урок 13](https://www.youtube.com/watch?v=IAXQitL1elE)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
