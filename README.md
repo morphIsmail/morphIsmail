@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [GitHub и Pages синтаксис ссылки #shorts](https://www.youtube.com/watch?v=yP-6hQdHx64)
 - [Самая грубая ошибка начинающих на HTML #shorts](https://www.youtube.com/watch?v=EaI9X9bSms4)
 - [Первые настройки Git, Ошибка коммита как устранить? #shorts](https://www.youtube.com/watch?v=r59s6nM3ZIU)
-- [HTML для начинающих, Как сделать сайт, Как начинается веб разработка](https://www.youtube.com/watch?v=QlTSL8CHbiY)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
