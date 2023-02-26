@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Фреймворк Materialize CSS для начинающих, трейлер курса на Stepik](https://www.youtube.com/watch?v=-K58fIRSU4E)
 - [GitHub и Pages синтаксис ссылки #shorts](https://www.youtube.com/watch?v=yP-6hQdHx64)
 - [Самая грубая ошибка начинающих на HTML #shorts](https://www.youtube.com/watch?v=EaI9X9bSms4)
-- [Первые настройки Git, Ошибка коммита как устранить? #shorts](https://www.youtube.com/watch?v=r59s6nM3ZIU)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
