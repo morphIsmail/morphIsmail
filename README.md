@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Практика по JavaScript для новичков, Задача 21 #shorts](https://www.youtube.com/watch?v=HLVopUdTksQ)
 - [Практика по JavaScript для новичков, Задача 20 #shorts](https://www.youtube.com/watch?v=uvgwfU89YAc)
 - [Фреймворк Materialize CSS для начинающих, трейлер курса на Stepik](https://www.youtube.com/watch?v=-K58fIRSU4E)
-- [GitHub и Pages синтаксис ссылки #shorts](https://www.youtube.com/watch?v=yP-6hQdHx64)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
