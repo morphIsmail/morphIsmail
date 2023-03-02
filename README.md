@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Практика по JavaScript для новичков, Задача 22 #shorts](https://www.youtube.com/watch?v=ty4oh4Op50E)
 - [Магазин на Wordpress 5.7 и перенос на реальный хостинг, самый подробный курс](https://www.youtube.com/watch?v=pc2R7_c9UUU)
 - [Практика по JavaScript для новичков, Задача 21 #shorts](https://www.youtube.com/watch?v=HLVopUdTksQ)
-- [Практика по JavaScript для новичков, Задача 20 #shorts](https://www.youtube.com/watch?v=uvgwfU89YAc)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
