@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [CSS для начинающих, основы CSS верстки на практике с заданиями](https://www.youtube.com/watch?v=-439WcEL0ek)
 - [Практика по JavaScript для новичков, Задача 24 #shorts](https://www.youtube.com/watch?v=1XH2AEK1GCY)
 - [Практика по JavaScript для новичков, Задача 23 #shorts](https://www.youtube.com/watch?v=HpxyguQklcY)
-- [Практика по JavaScript для новичков, Задача 22 #shorts](https://www.youtube.com/watch?v=ty4oh4Op50E)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
