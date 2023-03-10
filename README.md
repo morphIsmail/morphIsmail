@@ -50,5 +50,5 @@
 [![Дзен](https://img.shields.io/badge/-Дзен-333?style=for-the-badge)](https://zen.yandex.ru/itdoctor)
 [![Rutube](https://img.shields.io/badge/-Rutube-333?style=for-the-badge)](https://rutube.ru/channel/23500045/)
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/morphIsmail)
-[![Instagram](https://img.shields.io/badge/-Instagram-333?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://instagram.com/ismail_asanovich)
+<!-- [![Instagram](https://img.shields.io/badge/-Instagram-333?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://instagram.com/ismail_asanovich) -->
 [![Курсы на Udemy](https://img.shields.io/badge/-Udemy-333?style=for-the-badge&logo=Udemy&logoColor=fff)](https://www.udemy.com/user/useinov-ismail-asanovich/)
