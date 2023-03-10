@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Практика по JavaScript для новичков, Задача 25 #shorts](https://www.youtube.com/watch?v=lYJC6ckjN_0)
 - [#1 Работа с DOM деревом на JavaScript, изменение текста и стилей на JS](https://www.youtube.com/watch?v=kUyEby5Anzg)
 - [CSS для начинающих, основы CSS верстки на практике с заданиями](https://www.youtube.com/watch?v=-439WcEL0ek)
-- [Практика по JavaScript для новичков, Задача 24 #shorts](https://www.youtube.com/watch?v=1XH2AEK1GCY)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
