@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#2 Атрибуты и создание элементов на JavaScript, работа с DOM](https://www.youtube.com/watch?v=1rhccaFpz8A)
 - [Практика по JavaScript для новичков, Задача 26 #shorts](https://www.youtube.com/watch?v=X2bOVjoeHfI)
 - [Практика по JavaScript для новичков, Задача 25 #shorts](https://www.youtube.com/watch?v=lYJC6ckjN_0)
-- [#1 Работа с DOM деревом на JavaScript, изменение текста и стилей на JS](https://www.youtube.com/watch?v=kUyEby5Anzg)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
