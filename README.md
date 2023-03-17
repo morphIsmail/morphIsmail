@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Практика по JavaScript для новичков, Задача 30 #shorts](https://www.youtube.com/watch?v=DgTooJAmiUc)
 - [Практика по JavaScript для новичков, Задача 29 #shorts](https://www.youtube.com/watch?v=IsYv0s9nWP4)
 - [#3 Генерация вложенных списков на JavaScript, работа с DOM](https://www.youtube.com/watch?v=vpFHXUi3dPs)
-- [Практика по JavaScript для новичков, Задача 28 #shorts](https://www.youtube.com/watch?v=fz1AMeoBD3w)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
