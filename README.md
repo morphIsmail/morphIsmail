@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Практика по JavaScript для новичков, Задача 31 Способ 2 #shorts](https://www.youtube.com/watch?v=mIHWy3whrGE)
 - [#4 Делаем календарь на JavaScript и задание, работа с DOM](https://www.youtube.com/watch?v=HmZ7j0WtjdU)
 - [Подкаст - Как я учу Английский язык](https://www.youtube.com/watch?v=IJpEKisLrhE)
-- [Практика по JavaScript для новичков, Задача 31 #shorts](https://www.youtube.com/watch?v=BgAK2QhDYoc)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
