@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Расширение Code Snap для Visual Studio Code #shorts](https://www.youtube.com/watch?v=AgKGdCCxbdg)
 - [#5 Сортировка таблицы на JavaScript, работа с DOM](https://www.youtube.com/watch?v=XkYW8VPgbAg)
 - [Расширение Auto Rename Tag для VS Code очень поможет #shorts](https://www.youtube.com/watch?v=GUHKQBy6GS0)
-- [Практика по JavaScript для новичков, Задача 31 Способ 2 #shorts](https://www.youtube.com/watch?v=mIHWy3whrGE)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
