@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Расширение Color Highlight для Visual Studio Code #shorts](https://www.youtube.com/watch?v=nJQ5H_xI8eQ)
 - [Расширение Code Snap для Visual Studio Code #shorts](https://www.youtube.com/watch?v=AgKGdCCxbdg)
 - [#5 Сортировка таблицы на JavaScript, работа с DOM](https://www.youtube.com/watch?v=XkYW8VPgbAg)
-- [Расширение Auto Rename Tag для VS Code очень поможет #shorts](https://www.youtube.com/watch?v=GUHKQBy6GS0)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
