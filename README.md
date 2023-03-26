@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#6 Пишем простые часы на JavaScript, работа с DOM](https://www.youtube.com/watch?v=FMgbaVz-TZ4)
 - [Расширение Color Highlight для Visual Studio Code #shorts](https://www.youtube.com/watch?v=nJQ5H_xI8eQ)
 - [Расширение Code Snap для Visual Studio Code #shorts](https://www.youtube.com/watch?v=AgKGdCCxbdg)
-- [#5 Сортировка таблицы на JavaScript, работа с DOM](https://www.youtube.com/watch?v=XkYW8VPgbAg)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
