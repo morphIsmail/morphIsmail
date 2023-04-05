@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#9 Вложенные циклы на JavaScript, Создаем таблицу из двумерного массива](https://www.youtube.com/watch?v=BnZXdj8hBd0)
 - [#8 Вывод таблицы с журналами на JavaScript, работа с DOM](https://www.youtube.com/watch?v=V0AWvfX3Fsc)
 - [#7 Классы, стили, метрики и прокрутка на JavaScript, работа с DOM](https://www.youtube.com/watch?v=YTB9F8S18pg)
-- [#6 Пишем простые часы на JavaScript, работа с DOM](https://www.youtube.com/watch?v=FMgbaVz-TZ4)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
