@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Расширение Dracula Official для Visual Studio Code #shorts](https://www.youtube.com/watch?v=It0-yLwg8l8)
 - [#9 Вложенные циклы на JavaScript, Создаем таблицу из двумерного массива](https://www.youtube.com/watch?v=BnZXdj8hBd0)
 - [#8 Вывод таблицы с журналами на JavaScript, работа с DOM](https://www.youtube.com/watch?v=V0AWvfX3Fsc)
-- [#7 Классы, стили, метрики и прокрутка на JavaScript, работа с DOM](https://www.youtube.com/watch?v=YTB9F8S18pg)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
