@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#10 Сортировка данных на JavaScript и вывод в таблицу HTML, работа с DOM](https://www.youtube.com/watch?v=nOTPF7FsoOA)
 - [Расширение Indent Rainbow для Visual Studio Code #shorts](https://www.youtube.com/watch?v=otrced0xzTo)
 - [Расширение Dracula Official для Visual Studio Code #shorts](https://www.youtube.com/watch?v=It0-yLwg8l8)
-- [#9 Вложенные циклы на JavaScript, Создаем таблицу из двумерного массива](https://www.youtube.com/watch?v=BnZXdj8hBd0)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
