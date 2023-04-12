@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#11 Практикуемся с циклом и функцией на JavaScript и выводим карточку на HTML](https://www.youtube.com/watch?v=QQ9k5WZTzng)
 - [#10 Сортировка данных на JavaScript и вывод в таблицу HTML, работа с DOM](https://www.youtube.com/watch?v=nOTPF7FsoOA)
 - [Расширение Indent Rainbow для Visual Studio Code #shorts](https://www.youtube.com/watch?v=otrced0xzTo)
-- [Расширение Dracula Official для Visual Studio Code #shorts](https://www.youtube.com/watch?v=It0-yLwg8l8)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
