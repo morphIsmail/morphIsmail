@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Расширение Material Icon Theme для Visual Studio Code #shorts](https://www.youtube.com/watch?v=Umr1wXtLdSs)
 - [#12 Выводим карточку с датой и фио на HTML CSS и JavaScript, работа с DOM](https://www.youtube.com/watch?v=3MaJRdPUFQ0)
 - [#11 Практикуемся с циклом и функцией на JavaScript и выводим карточку на HTML](https://www.youtube.com/watch?v=QQ9k5WZTzng)
-- [#10 Сортировка данных на JavaScript и вывод в таблицу HTML, работа с DOM](https://www.youtube.com/watch?v=nOTPF7FsoOA)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
