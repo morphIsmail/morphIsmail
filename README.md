@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#13 Прогрессбар с таймером на JavaScript, работа с DOM](https://www.youtube.com/watch?v=sjJw6oc68rY)
 - [Расширение Material Icon Theme для Visual Studio Code #shorts](https://www.youtube.com/watch?v=Umr1wXtLdSs)
 - [#12 Выводим карточку с датой и фио на HTML CSS и JavaScript, работа с DOM](https://www.youtube.com/watch?v=3MaJRdPUFQ0)
-- [#11 Практикуемся с циклом и функцией на JavaScript и выводим карточку на HTML](https://www.youtube.com/watch?v=QQ9k5WZTzng)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
