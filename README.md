@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Самый понятный и подробный урок по CSS Flexbox для начинающих, все нюансы, примеры, практика](https://www.youtube.com/watch?v=Hf__JLlFxpk)
 - [#14 Генератор имён на JavaScript, работа с DOM](https://www.youtube.com/watch?v=MUutsPtP_SU)
 - [#13 Прогрессбар с таймером на JavaScript, работа с DOM](https://www.youtube.com/watch?v=sjJw6oc68rY)
-- [Расширение Material Icon Theme для Visual Studio Code #shorts](https://www.youtube.com/watch?v=Umr1wXtLdSs)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
