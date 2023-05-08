@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#15 Локальное хранилище localStorage на JavaScript, сохраняем данные в браузере](https://www.youtube.com/watch?v=9m7o30iS8ck)
 - [Расширение VS HTML to CSS для Visual Studio Code #shorts](https://www.youtube.com/watch?v=AIT7LvppTwM)
 - [Самый понятный и подробный урок по CSS Flexbox для начинающих, все нюансы, примеры, практика](https://www.youtube.com/watch?v=Hf__JLlFxpk)
-- [#14 Генератор имён на JavaScript, работа с DOM](https://www.youtube.com/watch?v=MUutsPtP_SU)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
