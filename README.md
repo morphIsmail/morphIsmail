@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#1 Три способа создать обработчики событий на языке JavaScript](https://www.youtube.com/watch?v=E3a38FZ2kN4)
 - [Расширение Live Server для Visual Studio Code #shorts](https://www.youtube.com/watch?v=UDYPvns-VE8)
 - [#15 Локальное хранилище localStorage на JavaScript, сохраняем данные в браузере](https://www.youtube.com/watch?v=9m7o30iS8ck)
-- [Расширение VS HTML to CSS для Visual Studio Code #shorts](https://www.youtube.com/watch?v=AIT7LvppTwM)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
