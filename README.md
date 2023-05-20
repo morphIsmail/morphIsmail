@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Расширение Git Graph для Visual Studio Code #shorts](https://www.youtube.com/watch?v=utCA3W9Hr5s)
 - [Расширение Markdown All in One для Visual Studio Code #shorts](https://www.youtube.com/watch?v=iBx631_li6U)
 - [#2 Объект событий на языке JavaScript, Скрыть и показать элемент по клику](https://www.youtube.com/watch?v=ck4k0gNPDt0)
-- [#1 Три способа создать обработчики событий на языке JavaScript](https://www.youtube.com/watch?v=E3a38FZ2kN4)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
