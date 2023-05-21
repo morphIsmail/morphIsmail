@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#3 Слайдер на языке JavaScript, Обработка нескольких событий в цикле](https://www.youtube.com/watch?v=x8eVM61CVSo)
 - [Расширение Git Graph для Visual Studio Code #shorts](https://www.youtube.com/watch?v=utCA3W9Hr5s)
 - [Расширение Markdown All in One для Visual Studio Code #shorts](https://www.youtube.com/watch?v=iBx631_li6U)
-- [#2 Объект событий на языке JavaScript, Скрыть и показать элемент по клику](https://www.youtube.com/watch?v=ck4k0gNPDt0)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
