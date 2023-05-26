@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Конструктор страниц, плагин Elementor для Wordpress](https://www.youtube.com/watch?v=NKR0SanBqLQ)
 - [#4 Тёмная тема на языке JavaScript, Сохранение состояния чекбокса даже при выключении ПК](https://www.youtube.com/watch?v=3doDXtIQBRY)
 - [#3 Слайдер на языке JavaScript, Обработка нескольких событий в цикле](https://www.youtube.com/watch?v=x8eVM61CVSo)
-- [Расширение Git Graph для Visual Studio Code #shorts](https://www.youtube.com/watch?v=utCA3W9Hr5s)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
