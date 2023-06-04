@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Работа с хостингом Handy Host, Панель управления, FTP, Сайт на Wordpress](https://www.youtube.com/watch?v=Yr3OhOZqq5M)
 - [Практика по JavaScript для новичков, Задача 33 #shorts](https://www.youtube.com/watch?v=yhwMt7T7Quk)
 - [#6 Фазы события, Всплытие и Делегирование на JavaScript](https://www.youtube.com/watch?v=prmY04RJb4A)
-- [Практика по JavaScript для новичков, Задача 32 #shorts](https://www.youtube.com/watch?v=Te_V5X-yCJ0)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
