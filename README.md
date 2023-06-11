@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#7 Пример Делегирования на JavaScript, создаём поведение Счётчик](https://www.youtube.com/watch?v=u0mTi6fbMDk)
 - [Практика по JavaScript для новичков, Задача 34 #shorts](https://www.youtube.com/watch?v=8CR2rXt2B3A)
 - [Работа с хостингом Handy Host, Панель управления, FTP, Сайт на Wordpress](https://www.youtube.com/watch?v=Yr3OhOZqq5M)
-- [Практика по JavaScript для новичков, Задача 33 #shorts](https://www.youtube.com/watch?v=yhwMt7T7Quk)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
