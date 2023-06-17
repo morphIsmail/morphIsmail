@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Практика по JavaScript для новичков, Задача 35 #shorts](https://www.youtube.com/watch?v=wcYNodZulZI)
 - [#8 Создаём поведение Переключатель на JavaScript, Пример Делегирования](https://www.youtube.com/watch?v=Kkc8Ff67fnA)
 - [#7 Пример Делегирования на JavaScript, создаём поведение Счётчик](https://www.youtube.com/watch?v=u0mTi6fbMDk)
-- [Практика по JavaScript для новичков, Задача 34 #shorts](https://www.youtube.com/watch?v=8CR2rXt2B3A)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
