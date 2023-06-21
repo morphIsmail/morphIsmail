@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#10 Разворачиваемые подменю на JavaScript, Пример Делегирования](https://www.youtube.com/watch?v=icgwV1vrTp8)
 - [#9 Удаление карточки по клику на JavaScript, Пример Делегирования](https://www.youtube.com/watch?v=Qp5WmSf1WNg)
 - [Практика по JavaScript для новичков, Задача 35 #shorts](https://www.youtube.com/watch?v=wcYNodZulZI)
-- [#8 Создаём поведение Переключатель на JavaScript, Пример Делегирования](https://www.youtube.com/watch?v=Kkc8Ff67fnA)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
