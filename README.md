@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#11 Сортировка таблицы на JavaScript по клику, работа с событиями](https://www.youtube.com/watch?v=OKgTLeu-W84)
 - [Практика по JavaScript для новичков, Задача 36 #shorts](https://www.youtube.com/watch?v=1rx9cB54Yv0)
 - [#10 Разворачиваемые подменю на JavaScript, Пример Делегирования](https://www.youtube.com/watch?v=icgwV1vrTp8)
-- [#9 Удаление карточки по клику на JavaScript, Пример Делегирования](https://www.youtube.com/watch?v=Qp5WmSf1WNg)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
