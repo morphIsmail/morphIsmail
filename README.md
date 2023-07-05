@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#13 Отмена стандартного поведения элементов на языке JavaScript](https://www.youtube.com/watch?v=RNP9368R5xE)
 - [#12 Всплывающая подсказка на JavaScript при наведении, обработка событий и метрики](https://www.youtube.com/watch?v=5f_aVGewMEc)
 - [#11 Сортировка таблицы на JavaScript по клику, работа с событиями](https://www.youtube.com/watch?v=OKgTLeu-W84)
-- [Практика по JavaScript для новичков, Задача 36 #shorts](https://www.youtube.com/watch?v=1rx9cB54Yv0)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
