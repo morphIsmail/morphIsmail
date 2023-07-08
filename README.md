@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Практика по JavaScript для новичков, Задача 38 #shorts](https://www.youtube.com/watch?v=k0CbbUtJCX8)
 - [Практика по JavaScript для новичков, Задача 37 #shorts](https://www.youtube.com/watch?v=52fA_ReRBq0)
 - [#13 Отмена стандартного поведения элементов на языке JavaScript](https://www.youtube.com/watch?v=RNP9368R5xE)
-- [#12 Всплывающая подсказка на JavaScript при наведении, обработка событий и метрики](https://www.youtube.com/watch?v=5f_aVGewMEc)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
