@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#14 Какая кнопка нажата, Сочетания клавиш, Выделение текста на JavaScript](https://www.youtube.com/watch?v=P9vmS2llz1A)
 - [Практика по JavaScript для новичков, Задача 38 #shorts](https://www.youtube.com/watch?v=k0CbbUtJCX8)
 - [Практика по JavaScript для новичков, Задача 37 #shorts](https://www.youtube.com/watch?v=52fA_ReRBq0)
-- [#13 Отмена стандартного поведения элементов на языке JavaScript](https://www.youtube.com/watch?v=RNP9368R5xE)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
