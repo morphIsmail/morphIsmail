@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Практика по JavaScript для новичков, Задача 40 #shorts](https://www.youtube.com/watch?v=ObmO8EiS1cI)
 - [Практика по JavaScript для новичков, Задача 39 #shorts](https://www.youtube.com/watch?v=j_hgIhN51d4)
 - [#15 Выделение через CTRL на JavaScript, обработка событий на языке JS](https://www.youtube.com/watch?v=EERmCTznWZ8)
-- [#14 Какая кнопка нажата, Сочетания клавиш, Выделение текста на JavaScript](https://www.youtube.com/watch?v=P9vmS2llz1A)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
