@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Практика по JavaScript для новичков, Задача 42 #shorts](https://www.youtube.com/watch?v=6imGRVUxh6Y)
 - [Практика по JavaScript для новичков, Задача 41 #shorts](https://www.youtube.com/watch?v=pYcw7X2qNcE)
 - [#17 Сочетания клавиш на JavaScript, пишем функцию и практикуемся](https://www.youtube.com/watch?v=pAkV3oqhALE)
-- [#16 Перетаскивание Drag and Drop, делаем слайдер Range на JavaScript и CSS](https://www.youtube.com/watch?v=RRJcPYL5PR4)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
