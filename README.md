@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#18 Работа с формами на языке JavaScript, checkbox fieldset select](https://www.youtube.com/watch?v=iZWgFXYffno)
 - [Практика по JavaScript для новичков, Задача 42 #shorts](https://www.youtube.com/watch?v=6imGRVUxh6Y)
 - [Практика по JavaScript для новичков, Задача 41 #shorts](https://www.youtube.com/watch?v=pYcw7X2qNcE)
-- [#17 Сочетания клавиш на JavaScript, пишем функцию и практикуемся](https://www.youtube.com/watch?v=pAkV3oqhALE)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
