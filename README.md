@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#20 Перемещение элемента по стрелкам на клавиатуре на языке JavaScript](https://www.youtube.com/watch?v=iQVY6465Jp4)
 - [Практика по JavaScript для новичков, Задача 44 #shorts](https://www.youtube.com/watch?v=zcw0Qt25rCI)
 - [Практика по JavaScript для новичков, Задача 43 #shorts](https://www.youtube.com/watch?v=A_dXXM2BaN4)
-- [#19 Фокус и потеря фокуса, события focus и blur на JavaScript](https://www.youtube.com/watch?v=SamoZ_TAuC4)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
