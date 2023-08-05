@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Практика по JavaScript для новичков, Задача 46 #shorts](https://www.youtube.com/watch?v=v2aP_jfNDgc)
 - [Практика по JavaScript для новичков, Задача 45 #shorts](https://www.youtube.com/watch?v=ANdjRv1mg5Y)
 - [#21 Обработка событий форм, input change cut copy paste submit на JavaScript](https://www.youtube.com/watch?v=CAqlpaeBa7c)
-- [#20 Перемещение элемента по стрелкам на клавиатуре на языке JavaScript](https://www.youtube.com/watch?v=iQVY6465Jp4)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
