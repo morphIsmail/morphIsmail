@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#22 События жизненного циклы HTML, async и defer для скриптов](https://www.youtube.com/watch?v=OeiuZrn-Z7U)
 - [Практика по JavaScript для новичков, Задача 46 #shorts](https://www.youtube.com/watch?v=v2aP_jfNDgc)
 - [Практика по JavaScript для новичков, Задача 45 #shorts](https://www.youtube.com/watch?v=ANdjRv1mg5Y)
-- [#21 Обработка событий форм, input change cut copy paste submit на JavaScript](https://www.youtube.com/watch?v=CAqlpaeBa7c)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
