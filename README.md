@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Практика по JavaScript для новичков, Задача 47 #shorts](https://www.youtube.com/watch?v=AwLTUbiPGzY)
 - [#22 События жизненного циклы HTML, async и defer для скриптов](https://www.youtube.com/watch?v=OeiuZrn-Z7U)
 - [Практика по JavaScript для новичков, Задача 46 #shorts](https://www.youtube.com/watch?v=v2aP_jfNDgc)
-- [Практика по JavaScript для новичков, Задача 45 #shorts](https://www.youtube.com/watch?v=ANdjRv1mg5Y)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
