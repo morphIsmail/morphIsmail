@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [1 | Верстка сайта и обзор макета #html #css #figma #git #github #vscode](https://www.youtube.com/watch?v=hY3NLEW3TzA)
 - [Практика по JavaScript для новичков, Задача 48 #shorts](https://www.youtube.com/watch?v=4Sl08d3jLFg)
 - [Практика по JavaScript для новичков, Задача 47 #shorts](https://www.youtube.com/watch?v=AwLTUbiPGzY)
-- [#22 События жизненного циклы HTML, async и defer для скриптов](https://www.youtube.com/watch?v=OeiuZrn-Z7U)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
