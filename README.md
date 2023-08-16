@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [2 | Создание проекта и репозитория на GitHub #html #css #figma #git #github #vscode](https://www.youtube.com/watch?v=pTOazPflp4E)
 - [1 | Верстка сайта и обзор макета #html #css #figma #git #github #vscode](https://www.youtube.com/watch?v=hY3NLEW3TzA)
 - [Практика по JavaScript для новичков, Задача 48 #shorts](https://www.youtube.com/watch?v=4Sl08d3jLFg)
-- [Практика по JavaScript для новичков, Задача 47 #shorts](https://www.youtube.com/watch?v=AwLTUbiPGzY)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
