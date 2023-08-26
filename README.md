@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Практика по JavaScript для новичков, Задача 52 #shorts](https://www.youtube.com/watch?v=Pkj9vcswl8g)
 - [Практика по JavaScript для новичков, Задача 51 #shorts](https://www.youtube.com/watch?v=DuEbqS0Lghk)
 - [3 | ДЗ и Создание файла .gitignore #html #css #figma #git #github #vscode](https://www.youtube.com/watch?v=mF7l3xAH83M)
-- [Обзор 3 важнейших обновления Figma в 2023 году для разработчиков](https://www.youtube.com/watch?v=gdCUYHNARzw)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
