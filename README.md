@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [4 | Создание контейнера, файл Normalize.css и подключение шрифта #html #css #figma](https://www.youtube.com/watch?v=7gfdXVDBTPw)
 - [Практика по JavaScript для новичков, Задача 52 #shorts](https://www.youtube.com/watch?v=Pkj9vcswl8g)
 - [Практика по JavaScript для новичков, Задача 51 #shorts](https://www.youtube.com/watch?v=DuEbqS0Lghk)
-- [3 | ДЗ и Создание файла .gitignore #html #css #figma #git #github #vscode](https://www.youtube.com/watch?v=mF7l3xAH83M)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
