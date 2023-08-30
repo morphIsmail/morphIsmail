@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [5 | Создание каркаса на HTML, Расширения в VS Code #html #css #figma #git #github #vscode](https://www.youtube.com/watch?v=NHP5SiE-8sU)
 - [4 | Создание контейнера, файл Normalize.css и подключение шрифта #html #css #figma](https://www.youtube.com/watch?v=7gfdXVDBTPw)
 - [Практика по JavaScript для новичков, Задача 52 #shorts](https://www.youtube.com/watch?v=Pkj9vcswl8g)
-- [Практика по JavaScript для новичков, Задача 51 #shorts](https://www.youtube.com/watch?v=DuEbqS0Lghk)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
