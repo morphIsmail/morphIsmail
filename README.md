@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [9 | Публикация сайта на хостинг GitHub Pages #html #css #figma #git #github #vscode](https://www.youtube.com/watch?v=qVJKqfwBghQ)
 - [8 | Создание адаптивной верстки сайта #html #css #figma #git #github #vscode](https://www.youtube.com/watch?v=z5OruSlapEs)
 - [Практика по JavaScript для новичков, Задача 54 #shorts](https://www.youtube.com/watch?v=MiJ022kCFpY)
-- [Практика по JavaScript для новичков, Задача 53 #shorts](https://www.youtube.com/watch?v=RFjOBN2Ahdo)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
