@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#23 События и методы выделения на JavaScript с помощью Range и Selection](https://www.youtube.com/watch?v=iRVNvf4ECbU)
 - [Практика по JavaScript для новичков, Задача 56 #shorts](https://www.youtube.com/watch?v=pRf1Vecl3Hw)
 - [Практика по JavaScript для новичков, Задача 55 #shorts](https://www.youtube.com/watch?v=lpC-3tnZ0MQ)
-- [9 | Публикация сайта на хостинг GitHub Pages #html #css #figma #git #github #vscode](https://www.youtube.com/watch?v=qVJKqfwBghQ)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
