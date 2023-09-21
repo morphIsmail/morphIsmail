@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Практика по JavaScript для новичков, Задача 57 #shorts](https://www.youtube.com/watch?v=9_Hp8m60bes)
 - [#24 Депозитный калькулятор на JavaScript, пишем код и практикуемся на JS](https://www.youtube.com/watch?v=S1knyg1dIbw)
 - [#23 События и методы выделения на JavaScript с помощью Range и Selection](https://www.youtube.com/watch?v=iRVNvf4ECbU)
-- [Практика по JavaScript для новичков, Задача 56 #shorts](https://www.youtube.com/watch?v=pRf1Vecl3Hw)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
