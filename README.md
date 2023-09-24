@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#25 Пишем Генератор CSS тени на языке JavaScript](https://www.youtube.com/watch?v=MuBTQeLHnZs)
 - [Практика по JavaScript для новичков, Задача 58 #shorts](https://www.youtube.com/watch?v=edON0ZyVSWE)
 - [Практика по JavaScript для новичков, Задача 57 #shorts](https://www.youtube.com/watch?v=9_Hp8m60bes)
-- [#24 Депозитный калькулятор на JavaScript, пишем код и практикуемся на JS](https://www.youtube.com/watch?v=S1knyg1dIbw)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
