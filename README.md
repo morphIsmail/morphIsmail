@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Практика по JavaScript для новичков, Задача 59 #shorts](https://www.youtube.com/watch?v=pjfSUxaEGBU)
 - [#26 Система уведомлений на JavaScript, пишем код с нуля и практикуемся](https://www.youtube.com/watch?v=igyhO8dkBD0)
 - [#25 Пишем Генератор CSS тени на языке JavaScript](https://www.youtube.com/watch?v=MuBTQeLHnZs)
-- [Практика по JavaScript для новичков, Задача 58 #shorts](https://www.youtube.com/watch?v=edON0ZyVSWE)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
