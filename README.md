@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Практика по JavaScript для новичков, Задача 62 #shorts](https://www.youtube.com/watch?v=-4IuhhVUy_A)
 - [Практика по JavaScript для новичков, Задача 61 #shorts](https://www.youtube.com/watch?v=L8Kmdhx5CWo)
 - [Позиционирование на CSS для чайников, фиксированное и липкое позиционирование на CSS | Часть 2](https://www.youtube.com/watch?v=1eRjXaSUdps)
-- [Позиционирование на CSS для чайников, абсолютное и относительное позиционирование на CSS | Часть 1](https://www.youtube.com/watch?v=SBFi-Ta3zq8)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
