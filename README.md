@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Практика по JavaScript для новичков, Задача 63 #shorts](https://www.youtube.com/watch?v=BVzq66lytmM)
 - [#1 Библиотека List JS, Поиск и сортировка обычных списков на JavaScript](https://www.youtube.com/watch?v=69gZ9X6ggPU)
 - [Как установить Unity Bolt в 2023, визуальное программирование на Unity](https://www.youtube.com/watch?v=O3jxCgz6BJc)
-- [Практика по JavaScript для новичков, Задача 62 #shorts](https://www.youtube.com/watch?v=-4IuhhVUy_A)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
