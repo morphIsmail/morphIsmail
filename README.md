@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#2 Библиотека SweetAlert2.js Модальные и диалоговые окна](https://www.youtube.com/watch?v=Z_HaXhdTVbA)
 - [Практика по JavaScript для новичков, Задача 64 #shorts](https://www.youtube.com/watch?v=90YeJB2YCYc)
 - [Практика по JavaScript для новичков, Задача 63 #shorts](https://www.youtube.com/watch?v=BVzq66lytmM)
-- [#1 Библиотека List JS, Поиск и сортировка обычных списков на JavaScript](https://www.youtube.com/watch?v=69gZ9X6ggPU)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
