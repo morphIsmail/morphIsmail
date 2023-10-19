@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Практика по JavaScript для новичков, Задача 65 #shorts](https://www.youtube.com/watch?v=OF97k7s2piE)
 - [#3 Библиотека popper.js Всплывающие текстовые подсказки на JavaScript](https://www.youtube.com/watch?v=VxRf6TDWJnc)
 - [#2 Библиотека SweetAlert2.js Модальные и диалоговые окна](https://www.youtube.com/watch?v=Z_HaXhdTVbA)
-- [Практика по JavaScript для новичков, Задача 64 #shorts](https://www.youtube.com/watch?v=90YeJB2YCYc)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
