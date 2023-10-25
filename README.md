@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#4 Библиотека baguetteBox.js Галерея изображений на JavaScript](https://www.youtube.com/watch?v=K4KQyyWmIPo)
 - [Практика по JavaScript для новичков, Задача 66 #shorts](https://www.youtube.com/watch?v=0P8HPpJOA-Y)
 - [Практика по JavaScript для новичков, Задача 65 #shorts](https://www.youtube.com/watch?v=OF97k7s2piE)
-- [#3 Библиотека popper.js Всплывающие текстовые подсказки на JavaScript](https://www.youtube.com/watch?v=VxRf6TDWJnc)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
