@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#5 Библиотека lightGallery.js Галерея изображений на JavaScript](https://www.youtube.com/watch?v=rn9fzmeMaTo)
 - [Практика по JavaScript для новичков, Задача 68 #shorts](https://www.youtube.com/watch?v=mgRjaq4Vzxw)
 - [Практика по JavaScript для новичков, Задача 67 #shorts](https://www.youtube.com/watch?v=IBL-wM37Qwg)
-- [#4 Библиотека baguetteBox.js Галерея изображений на JavaScript](https://www.youtube.com/watch?v=K4KQyyWmIPo)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
