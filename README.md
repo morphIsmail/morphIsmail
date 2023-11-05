@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Адаптивное меню на JavaScript с выпадающими вложенными списками](https://www.youtube.com/watch?v=yolsUBD5apU)
 - [#6 Библиотека flatpickr.js Календарь и выбор даты на JavaScript](https://www.youtube.com/watch?v=j2HtXaH6Kf0)
 - [#5 Библиотека lightGallery.js Галерея изображений на JavaScript](https://www.youtube.com/watch?v=rn9fzmeMaTo)
-- [Практика по JavaScript для новичков, Задача 68 #shorts](https://www.youtube.com/watch?v=mgRjaq4Vzxw)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
