@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#7 Библиотека cleave.js Валидация форм на JavaScript](https://www.youtube.com/watch?v=YycJWOOw-8g)
 - [Адаптивное меню на JavaScript с выпадающими вложенными списками](https://www.youtube.com/watch?v=yolsUBD5apU)
 - [#6 Библиотека flatpickr.js Календарь и выбор даты на JavaScript](https://www.youtube.com/watch?v=j2HtXaH6Kf0)
-- [#5 Библиотека lightGallery.js Галерея изображений на JavaScript](https://www.youtube.com/watch?v=rn9fzmeMaTo)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
