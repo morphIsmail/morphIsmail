@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Практика по JavaScript для новичков, Задача 70 #shorts](https://www.youtube.com/watch?v=PDSSILBMOkI)
 - [Практика по JavaScript для новичков, Задача 69 #shorts](https://www.youtube.com/watch?v=qscw2SlRQII)
 - [#7 Библиотека cleave.js Валидация форм на JavaScript](https://www.youtube.com/watch?v=YycJWOOw-8g)
-- [Адаптивное меню на JavaScript с выпадающими вложенными списками](https://www.youtube.com/watch?v=yolsUBD5apU)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
