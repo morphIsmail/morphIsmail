@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#9 Библиотека Swiper.js Слайдер на JavaScript](https://www.youtube.com/watch?v=Buf02r-8asI)
 - [#8 Библиотека mixItUp3.js Фильтрация и сортировка элементов на JavaScript](https://www.youtube.com/watch?v=Riy2v5GyUcg)
 - [Практика по JavaScript для новичков, Задача 70 #shorts](https://www.youtube.com/watch?v=PDSSILBMOkI)
-- [Практика по JavaScript для новичков, Задача 69 #shorts](https://www.youtube.com/watch?v=qscw2SlRQII)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
