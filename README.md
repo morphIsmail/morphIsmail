@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Практика по JavaScript для новичков, Задача 72 #shorts](https://www.youtube.com/watch?v=DCl32-jkFBI)
 - [Практика по JavaScript для новичков, Задача 71 #shorts](https://www.youtube.com/watch?v=NH-a8xLEeTM)
 - [#9 Библиотека Swiper.js Слайдер на JavaScript](https://www.youtube.com/watch?v=Buf02r-8asI)
-- [#8 Библиотека mixItUp3.js Фильтрация и сортировка элементов на JavaScript](https://www.youtube.com/watch?v=Riy2v5GyUcg)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
