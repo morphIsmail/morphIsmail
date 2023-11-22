@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Верстка сайта по макету Figma на HTML и CSS, ДЗ и работа в портфолио](https://www.youtube.com/watch?v=coFmhati_Vc)
 - [Практика по JavaScript для новичков, Задача 72 #shorts](https://www.youtube.com/watch?v=DCl32-jkFBI)
 - [Практика по JavaScript для новичков, Задача 71 #shorts](https://www.youtube.com/watch?v=NH-a8xLEeTM)
-- [#9 Библиотека Swiper.js Слайдер на JavaScript](https://www.youtube.com/watch?v=Buf02r-8asI)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
