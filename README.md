@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Практика по JavaScript для новичков, Задача 73 #shorts](https://www.youtube.com/watch?v=uo9Rh_5_58s)
 - [Верстка сайта по макету Figma на HTML и CSS, ДЗ и работа в портфолио](https://www.youtube.com/watch?v=coFmhati_Vc)
 - [Практика по JavaScript для новичков, Задача 72 #shorts](https://www.youtube.com/watch?v=DCl32-jkFBI)
-- [Практика по JavaScript для новичков, Задача 71 #shorts](https://www.youtube.com/watch?v=NH-a8xLEeTM)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
