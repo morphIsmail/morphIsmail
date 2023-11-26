@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Размеры элементов на CSS, Свойство width и height, ширина и высота блока](https://www.youtube.com/watch?v=ZuRJSkvuHoQ)
 - [Практика по JavaScript для новичков, Задача 74 #shorts](https://www.youtube.com/watch?v=viY5OK0VvAk)
 - [Практика по JavaScript для новичков, Задача 73 #shorts](https://www.youtube.com/watch?v=uo9Rh_5_58s)
-- [Верстка сайта по макету Figma на HTML и CSS, ДЗ и работа в портфолио](https://www.youtube.com/watch?v=coFmhati_Vc)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
