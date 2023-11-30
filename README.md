@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Практика по JavaScript для новичков, Задача 75 #shorts](https://www.youtube.com/watch?v=qcC2kLApUF8)
 - [Курс-плейлист Тренажер по вёрстке, плагин Emmet, Трейлер курса](https://www.youtube.com/watch?v=luVS77YfeP0)
 - [Размеры элементов на CSS, Свойство width и height, ширина и высота блока](https://www.youtube.com/watch?v=ZuRJSkvuHoQ)
-- [Практика по JavaScript для новичков, Задача 74 #shorts](https://www.youtube.com/watch?v=viY5OK0VvAk)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
