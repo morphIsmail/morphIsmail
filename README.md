@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#1 Про плагин Emmet, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=ZIzJeJ9wazo)
 - [Практика по JavaScript для новичков, Задача 76 #shorts](https://www.youtube.com/watch?v=OioYVU9qK1c)
 - [Практика по JavaScript для новичков, Задача 75 #shorts](https://www.youtube.com/watch?v=qcC2kLApUF8)
-- [Курс-плейлист Тренажер по вёрстке, плагин Emmet, Трейлер курса](https://www.youtube.com/watch?v=luVS77YfeP0)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
