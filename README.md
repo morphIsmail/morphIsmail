@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Работа в команде над проектами для быстрого роста #shorts](https://www.youtube.com/watch?v=4IacMww4yEM)
 - [#2 Установка VS Code, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=DvkvLZtbmBU)
 - [#1 Про плагин Emmet, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=ZIzJeJ9wazo)
-- [Практика по JavaScript для новичков, Задача 76 #shorts](https://www.youtube.com/watch?v=OioYVU9qK1c)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
