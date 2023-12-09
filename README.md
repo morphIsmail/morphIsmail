@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Где брать макеты Figma для верстки #shorts](https://www.youtube.com/watch?v=wiNW1STZHpU)
 - [Работа в команде над проектами для быстрого роста #shorts](https://www.youtube.com/watch?v=4IacMww4yEM)
 - [#2 Установка VS Code, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=DvkvLZtbmBU)
-- [#1 Про плагин Emmet, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=ZIzJeJ9wazo)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
