@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#3 Дочерние элементы, вложенные элементы и сокращения HTML тегов на Emmet](https://www.youtube.com/watch?v=gipxxrXamoM)
 - [Где брать макеты Figma для верстки #shorts](https://www.youtube.com/watch?v=wiNW1STZHpU)
 - [Работа в команде над проектами для быстрого роста #shorts](https://www.youtube.com/watch?v=4IacMww4yEM)
-- [#2 Установка VS Code, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=DvkvLZtbmBU)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
