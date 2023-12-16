@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Как правильно задавать вопросы Часть 1 #shorts](https://www.youtube.com/watch?v=8QvZ7mDErkU)
 - [Идеи для проектов по программированию и чат боты #shorts](https://www.youtube.com/watch?v=N7Sph443jds)
 - [#4 Соседние элементы, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=MeU8talqXQs)
-- [#3 Дочерние элементы, вложенные элементы и сокращения HTML тегов на Emmet](https://www.youtube.com/watch?v=gipxxrXamoM)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
