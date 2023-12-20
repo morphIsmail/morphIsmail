@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#1 Установка и подключение Vue.js, изучаем основы фреймворка Vue.js](https://www.youtube.com/watch?v=5wUj3NCgf18)
 - [Трейлер курса Frontend разработчик на HTML, CSS и JavaScript](https://www.youtube.com/watch?v=LQylhEkxS44)
 - [Как правильно задавать вопросы Часть 1 #shorts](https://www.youtube.com/watch?v=8QvZ7mDErkU)
-- [Идеи для проектов по программированию и чат боты #shorts](https://www.youtube.com/watch?v=N7Sph443jds)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
