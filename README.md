@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Как правильно задавать вопросы Часть 2 #shorts](https://www.youtube.com/watch?v=n536tN-Mstc)
 - [#1 Установка и подключение Vue.js, изучаем основы фреймворка Vue.js](https://www.youtube.com/watch?v=5wUj3NCgf18)
 - [Трейлер курса Frontend разработчик на HTML, CSS и JavaScript](https://www.youtube.com/watch?v=LQylhEkxS44)
-- [Как правильно задавать вопросы Часть 1 #shorts](https://www.youtube.com/watch?v=8QvZ7mDErkU)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
