@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#5 Выйти на уровень вверх, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=7r48RDAPUV0)
 - [Как правильно задавать вопросы Часть 3 #shorts](https://www.youtube.com/watch?v=Uk4TqQlzFAI)
 - [Как правильно задавать вопросы Часть 2 #shorts](https://www.youtube.com/watch?v=n536tN-Mstc)
-- [#1 Установка и подключение Vue.js, изучаем основы фреймворка Vue.js](https://www.youtube.com/watch?v=5wUj3NCgf18)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
