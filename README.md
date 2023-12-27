@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#2 Декларативная отрисовка на Vue.js и директива v-bind на Vue.js](https://www.youtube.com/watch?v=JuaQltsFMKg)
 - [#5 Выйти на уровень вверх, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=7r48RDAPUV0)
 - [Как правильно задавать вопросы Часть 3 #shorts](https://www.youtube.com/watch?v=Uk4TqQlzFAI)
-- [Как правильно задавать вопросы Часть 2 #shorts](https://www.youtube.com/watch?v=n536tN-Mstc)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
