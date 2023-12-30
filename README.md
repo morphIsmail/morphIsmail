@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Эффективное обучение Часть 2 #shorts](https://www.youtube.com/watch?v=-1sfTT-LQMs)
 - [Эффективное обучение Часть 1 #shorts](https://www.youtube.com/watch?v=y_CoWrKp9v8)
 - [#2 Декларативная отрисовка на Vue.js и директива v-bind на Vue.js](https://www.youtube.com/watch?v=JuaQltsFMKg)
-- [#5 Выйти на уровень вверх, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=7r48RDAPUV0)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
