@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#6 Текст рыба Lorem ipsum, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=qr-Vd1MwlAU)
 - [Эффективное обучение Часть 2 #shorts](https://www.youtube.com/watch?v=-1sfTT-LQMs)
 - [Эффективное обучение Часть 1 #shorts](https://www.youtube.com/watch?v=y_CoWrKp9v8)
-- [#2 Декларативная отрисовка на Vue.js и директива v-bind на Vue.js](https://www.youtube.com/watch?v=JuaQltsFMKg)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
