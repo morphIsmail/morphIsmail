@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#7 Умножение элементов, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=RqFxQhb90_0)
 - [Эффективное обучение Часть 4 #shorts](https://www.youtube.com/watch?v=ogrUTj8hghU)
 - [Эффективное обучение Часть 3 #shorts](https://www.youtube.com/watch?v=lxoxY67SZTU)
-- [#3 Работа с пользовательским вводом и директивы v-on v-model на Vue.js](https://www.youtube.com/watch?v=TDd4X_YRrsc)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
