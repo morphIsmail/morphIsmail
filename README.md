@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#4 Условия и циклы, директива v-if и v-for на фреймворке Vue.js](https://www.youtube.com/watch?v=NXaNkJB8o6U)
 - [#7 Умножение элементов, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=RqFxQhb90_0)
 - [Эффективное обучение Часть 4 #shorts](https://www.youtube.com/watch?v=ogrUTj8hghU)
-- [Эффективное обучение Часть 3 #shorts](https://www.youtube.com/watch?v=lxoxY67SZTU)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
