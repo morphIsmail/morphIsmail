@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#9 Классы и идентификаторы, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=HiYPIds6R0s)
 - [#5 Композиция приложения из компонентов на фреймворке Vue.js](https://www.youtube.com/watch?v=jtNt5rcUSu8)
 - [#8 Группировка элементов, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=l2Nn2GKVgTI)
-- [#4 Условия и циклы, директива v-if и v-for на фреймворке Vue.js](https://www.youtube.com/watch?v=NXaNkJB8o6U)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
