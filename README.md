@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#6 Экземпляр приложения и компонента на Vue.js, Хуки и диаграмма жизненного цикла](https://www.youtube.com/watch?v=safsJp3oAJc)
 - [#9 Классы и идентификаторы, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=HiYPIds6R0s)
 - [#5 Композиция приложения из компонентов на фреймворке Vue.js](https://www.youtube.com/watch?v=jtNt5rcUSu8)
-- [#8 Группировка элементов, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=l2Nn2GKVgTI)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
