@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#7 Синтаксис шаблонов, интерполяция, директивы и сокращенная запись на Vue.js](https://www.youtube.com/watch?v=71mEEN8JG_k)
 - [#10 Атрибуты, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=V_b2FFIBJKg)
 - [#6 Экземпляр приложения и компонента на Vue.js, Хуки и диаграмма жизненного цикла](https://www.youtube.com/watch?v=safsJp3oAJc)
-- [#9 Классы и идентификаторы, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=HiYPIds6R0s)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
