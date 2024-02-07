@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#8 Свойство data и методы на фреймворке Vue.js](https://www.youtube.com/watch?v=tAhsEvtJdfA)
 - [#11 Текст в тегах, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=192T9Oy1tC0)
 - [#7 Синтаксис шаблонов, интерполяция, директивы и сокращенная запись на Vue.js](https://www.youtube.com/watch?v=71mEEN8JG_k)
-- [#10 Атрибуты, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=V_b2FFIBJKg)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
