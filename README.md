@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Верстка сайта по макету из Figma без Dev Mode в бесплатной версии](https://www.youtube.com/watch?v=ZGeCNkW7FKw)
 - [#8 Свойство data и методы на фреймворке Vue.js](https://www.youtube.com/watch?v=tAhsEvtJdfA)
 - [#11 Текст в тегах, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=192T9Oy1tC0)
-- [#7 Синтаксис шаблонов, интерполяция, директивы и сокращенная запись на Vue.js](https://www.youtube.com/watch?v=71mEEN8JG_k)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
