@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Как перенести тень из Figma в CSS, пишем свойство box-shadow вручную #shorts](https://www.youtube.com/watch?v=kkNsPKdolGw)
 - [#9 Вычисляемые свойства и кэширование, отличие вычисляемых свойств от методов на Vue.js](https://www.youtube.com/watch?v=c8FwfQqQCII)
 - [Верстка сайта по макету из Figma без Dev Mode в бесплатной версии](https://www.youtube.com/watch?v=ZGeCNkW7FKw)
-- [#8 Свойство data и методы на фреймворке Vue.js](https://www.youtube.com/watch?v=tAhsEvtJdfA)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
