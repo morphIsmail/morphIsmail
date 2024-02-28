@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#11 Условная отрисовка на Vue.js и 4 директивы для условной отрисовки](https://www.youtube.com/watch?v=M6DFlpQHwUE)
 - [Верстка сайта по макету из Figma используя плагин Inspect Styles](https://www.youtube.com/watch?v=MoIK7WtUvto)
 - [#10 Работа с классами и стилями на фреймворке Vue.js](https://www.youtube.com/watch?v=Bo2qaoDfufQ)
-- [Как перенести тень из Figma в CSS, пишем свойство box-shadow вручную #shorts](https://www.youtube.com/watch?v=kkNsPKdolGw)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
