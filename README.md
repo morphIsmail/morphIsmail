@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [GitVerse Российская платформа для работы с исходным кодом, Новый убийца GitHub?](https://www.youtube.com/watch?v=CPh92l4NLQ8)
 - [Бесплатный курс по верстке сайтов и переносу на Wordpress #shorts](https://www.youtube.com/watch?v=p5FHtzFtQ8o)
 - [#11 Условная отрисовка на Vue.js и 4 директивы для условной отрисовки](https://www.youtube.com/watch?v=M6DFlpQHwUE)
-- [Верстка сайта по макету из Figma используя плагин Inspect Styles](https://www.youtube.com/watch?v=MoIK7WtUvto)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
