@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#12 Отрисовка списков и создание циклов на Vue.js](https://www.youtube.com/watch?v=1wXayYruW7A)
 - [GitVerse Российская платформа для работы с исходным кодом, Новый убийца GitHub?](https://www.youtube.com/watch?v=CPh92l4NLQ8)
 - [Бесплатный курс по верстке сайтов и переносу на Wordpress #shorts](https://www.youtube.com/watch?v=p5FHtzFtQ8o)
-- [#11 Условная отрисовка на Vue.js и 4 директивы для условной отрисовки](https://www.youtube.com/watch?v=M6DFlpQHwUE)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
