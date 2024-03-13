@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#13 Обработка событий и модификаторы клавиш на Vue.js](https://www.youtube.com/watch?v=Ni3b4rj43WU)
 - [#12 Неявные имена тегов, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=Nbw2OGZI1Gw)
 - [#12 Отрисовка списков и создание циклов на Vue.js](https://www.youtube.com/watch?v=1wXayYruW7A)
-- [GitVerse Российская платформа для работы с исходным кодом, Новый убийца GitHub?](https://www.youtube.com/watch?v=CPh92l4NLQ8)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
