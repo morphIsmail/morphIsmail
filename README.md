@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#14 Работа с элементами форм на Vue.js](https://www.youtube.com/watch?v=TYab3vhjEYk)
 - [Верстка сайта по макету из Pixso, бесплатный аналог Figma с Dev Mode](https://www.youtube.com/watch?v=6YnDq_oDw_I)
 - [#13 Обработка событий и модификаторы клавиш на Vue.js](https://www.youtube.com/watch?v=Ni3b4rj43WU)
-- [#12 Неявные имена тегов, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=Nbw2OGZI1Gw)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
