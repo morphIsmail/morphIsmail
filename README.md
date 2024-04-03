@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#16 Пишем финальный проект на Vue.js](https://www.youtube.com/watch?v=f0DzY9H4tDk)
 - [#15 Работа с компонентами на Vue.js](https://www.youtube.com/watch?v=IHwMKaoJCR8)
 - [#13 Аббревиатуры HTML, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=aYkwFD-lEJk)
-- [#14 Работа с элементами форм на Vue.js](https://www.youtube.com/watch?v=TYab3vhjEYk)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
