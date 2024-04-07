@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
-- [#16 Пишем финальный проект на Vue.js](https://www.youtube.com/watch?v=f0DzY9H4tDk)
-- [#15 Работа с компонентами на Vue.js](https://www.youtube.com/watch?v=IHwMKaoJCR8)
-- [#13 Аббревиатуры HTML, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=aYkwFD-lEJk)
+- [#6 Загрузка кода на GitHub | Git и GitHub для начинающих](https://www.youtube.com/watch?v=y94qMJlTtsM)
+- [#3 Инициализация репозитория Git | Git и GitHub для начинающих](https://www.youtube.com/watch?v=km64378uMCs)
+- [#2 Установка Git | Git и GitHub для начинающих](https://www.youtube.com/watch?v=LHuott_frOA)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
