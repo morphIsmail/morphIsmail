@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#17 Самостоятельная работа, экзаменационный проект на Vue.js](https://www.youtube.com/watch?v=htv_XxJWqc8)
 - [#6 Загрузка кода на GitHub | Git и GitHub для начинающих](https://www.youtube.com/watch?v=y94qMJlTtsM)
 - [#3 Инициализация репозитория Git | Git и GitHub для начинающих](https://www.youtube.com/watch?v=km64378uMCs)
-- [#2 Установка Git | Git и GitHub для начинающих](https://www.youtube.com/watch?v=LHuott_frOA)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
