@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [15 Теги формы](https://www.youtube.com/watch?v=7FgwiBt2ffs)
 - [Ошибка в названии проекта при работе с Open Server #shorts](https://www.youtube.com/watch?v=Uf36XRk9MQM)
 - [#1 Верстаем по макету из Figma, Подготовка проекта и начало работы](https://www.youtube.com/watch?v=3PxHk_kQsyA)
-- [#14 Теги link, meta, style, script](https://www.youtube.com/watch?v=0hYxssei1WU)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
