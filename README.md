@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Как раcсчитать значение latter-spacing из процентов в пиксели #shorts](https://www.youtube.com/watch?v=xu_3GTKOvwg)
 - [#2 Верстаем по макету из Figma, Обзор макета и подготовка HTML разметки](https://www.youtube.com/watch?v=g4Bw7-nbCu4)
 - [15 Теги формы](https://www.youtube.com/watch?v=7FgwiBt2ffs)
-- [Ошибка в названии проекта при работе с Open Server #shorts](https://www.youtube.com/watch?v=Uf36XRk9MQM)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
