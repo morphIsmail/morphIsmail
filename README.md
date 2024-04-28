@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#16 Emmet Balance и горячие клавиши в VS Code, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=ij8eDvGvXbg)
 - [Как раcсчитать значение latter-spacing из процентов в пиксели #shorts](https://www.youtube.com/watch?v=xu_3GTKOvwg)
 - [#2 Верстаем по макету из Figma, Обзор макета и подготовка HTML разметки](https://www.youtube.com/watch?v=g4Bw7-nbCu4)
-- [15 Теги формы](https://www.youtube.com/watch?v=7FgwiBt2ffs)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
