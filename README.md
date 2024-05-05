@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Что такое САЙТ, CMS, БД, Хостинг, Домен? Терминология понятным языком](https://www.youtube.com/watch?v=oQT9FIFSQbY)
 - [Как установить текст по центру по вертикали в кнопке на HTML и CSS #shorts](https://www.youtube.com/watch?v=CaA6S1MuNxo)
 - [#3 Плагин Perfect Pixel, Верстаем по макету из Figma](https://www.youtube.com/watch?v=HcmEN5GeDek)
-- [#16 Emmet Balance и горячие клавиши в VS Code, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=ij8eDvGvXbg)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
