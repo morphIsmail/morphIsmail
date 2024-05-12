@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Open Server 6.0 - Что они натворили в новой версии? Как работать с PHP и MySQL, Установка Wordpress](https://www.youtube.com/watch?v=bTE1UWqA4t0)
 - [Оптимизация иконок SVG с помощью онлайн сервиса #shorts](https://www.youtube.com/watch?v=9jpNyt1CgM0)
 - [Что такое САЙТ, CMS, БД, Хостинг, Домен? Терминология понятным языком](https://www.youtube.com/watch?v=oQT9FIFSQbY)
-- [Как установить текст по центру по вертикали в кнопке на HTML и CSS #shorts](https://www.youtube.com/watch?v=CaA6S1MuNxo)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
