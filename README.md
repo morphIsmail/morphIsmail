@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Что означают сокращения I18n и L10n в программировании #shorts](https://www.youtube.com/watch?v=447sEWgF2QA)
 - [Open Server 6.0 - Что они натворили в новой версии? Как работать с PHP и MySQL, Установка Wordpress](https://www.youtube.com/watch?v=bTE1UWqA4t0)
 - [Оптимизация иконок SVG с помощью онлайн сервиса #shorts](https://www.youtube.com/watch?v=9jpNyt1CgM0)
-- [Что такое САЙТ, CMS, БД, Хостинг, Домен? Терминология понятным языком](https://www.youtube.com/watch?v=oQT9FIFSQbY)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
