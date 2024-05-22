@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Wordpress - Баг с неразрывным пробелом в текстовом редакторе, как исправить? #shorts](https://www.youtube.com/watch?v=6E--G-3_kQg)
 - [Прозрачный фон изображения, Как исправить фейковую прозрачность и почистить фон](https://www.youtube.com/watch?v=IGsrenNcGnU)
 - [Что означают сокращения I18n и L10n в программировании #shorts](https://www.youtube.com/watch?v=447sEWgF2QA)
-- [Open Server 6.0 - Что они натворили в новой версии? Как работать с PHP и MySQL, Установка Wordpress](https://www.youtube.com/watch?v=bTE1UWqA4t0)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
