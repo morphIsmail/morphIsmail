@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#5 Работа с SVG иконками, верстаем раздел сайта на HTML и CSS](https://www.youtube.com/watch?v=_kmPMFNe894)
 - [#4 Адаптивная версия для Header, Верстаем по макету из Figma](https://www.youtube.com/watch?v=Xgx-8Mk__94)
 - [Wordpress - Баг с неразрывным пробелом в текстовом редакторе, как исправить? #shorts](https://www.youtube.com/watch?v=6E--G-3_kQg)
-- [Прозрачный фон изображения, Как исправить фейковую прозрачность и почистить фон](https://www.youtube.com/watch?v=IGsrenNcGnU)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
