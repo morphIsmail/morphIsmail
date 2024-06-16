@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#7 Верстаем раздел сайта на HTML и CSS по макету из Figma](https://www.youtube.com/watch?v=xukiQ3tyTjA)
 - [#6 Верстаем раздел сайта на HTML и CSS по макету из Figma](https://www.youtube.com/watch?v=Z4e-nv6g600)
 - [#5 Работа с SVG иконками, верстаем раздел сайта на HTML и CSS](https://www.youtube.com/watch?v=_kmPMFNe894)
-- [#4 Адаптивная версия для Header, Верстаем по макету из Figma](https://www.youtube.com/watch?v=Xgx-8Mk__94)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
