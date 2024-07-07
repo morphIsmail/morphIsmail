@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#1 Выбор хостинга | Перенос сайта на хостинг 2024](https://www.youtube.com/watch?v=Jo3pm6NZUzo)
 - [Git и GitHub для начинающих 2024](https://www.youtube.com/watch?v=zUzQG7hmdNM)
 - [#8 Загружаем проект на GitHub и публикуем код на GitHub Pages](https://www.youtube.com/watch?v=IfBhttjIDUc)
-- [#7 Верстаем раздел сайта на HTML и CSS по макету из Figma](https://www.youtube.com/watch?v=xukiQ3tyTjA)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
