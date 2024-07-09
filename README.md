@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#3 Оплата хостинга | Перенос сайта на хостинг 2024](https://www.youtube.com/watch?v=4lhl1BHByRE)
 - [#2 Домен сайта | Перенос сайта на хостинг 2024](https://www.youtube.com/watch?v=AYpjZPURfHY)
 - [#1 Выбор хостинга | Перенос сайта на хостинг 2024](https://www.youtube.com/watch?v=Jo3pm6NZUzo)
-- [Git и GitHub для начинающих 2024](https://www.youtube.com/watch?v=zUzQG7hmdNM)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
