@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#6 Экспорт и Импорт БД | Перенос сайта на хостинг 2024](https://www.youtube.com/watch?v=qIl40I-kj5M)
 - [#5 Перенос файлов сайта на хостинг | Перенос сайта на хостинг 2024](https://www.youtube.com/watch?v=vL-iQqlqQLw)
 - [#4 Панель управления хостингом | Перенос сайта на хостинг 2024](https://www.youtube.com/watch?v=YkzCNcw7DMw)
-- [#3 Оплата хостинга | Перенос сайта на хостинг 2024](https://www.youtube.com/watch?v=4lhl1BHByRE)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
