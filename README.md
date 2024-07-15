@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#9 SSL Сертификат | Перенос сайта на хостинг 2024](https://www.youtube.com/watch?v=Xs5Pds2Apk0)
 - [#8 Итоги и мотивация | Перенос сайта на хостинг 2024](https://www.youtube.com/watch?v=dKK4P4iEqUw)
 - [#7 Подключение сайта к БД | Перенос сайта на хостинг 2024](https://www.youtube.com/watch?v=hy2lvWQdOlI)
-- [#6 Экспорт и Импорт БД | Перенос сайта на хостинг 2024](https://www.youtube.com/watch?v=qIl40I-kj5M)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
