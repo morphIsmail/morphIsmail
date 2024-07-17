@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#11 Подключение по FTP | Перенос сайта на хостинг 2024](https://www.youtube.com/watch?v=ThV3qCM-JkU)
 - [#10 Резервная копия | Перенос сайта на хостинг 2024](https://www.youtube.com/watch?v=BvpNSyXwJ-Y)
 - [#9 SSL Сертификат | Перенос сайта на хостинг 2024](https://www.youtube.com/watch?v=Xs5Pds2Apk0)
-- [#8 Итоги и мотивация | Перенос сайта на хостинг 2024](https://www.youtube.com/watch?v=dKK4P4iEqUw)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
