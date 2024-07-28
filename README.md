@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [17 Найти закрывающий тег и обернуть](https://www.youtube.com/watch?v=IM9zhG72vSc)
 - [#11 Подключение по FTP | Перенос сайта на хостинг 2024](https://www.youtube.com/watch?v=ThV3qCM-JkU)
 - [#10 Резервная копия | Перенос сайта на хостинг 2024](https://www.youtube.com/watch?v=BvpNSyXwJ-Y)
-- [#9 SSL Сертификат | Перенос сайта на хостинг 2024](https://www.youtube.com/watch?v=Xs5Pds2Apk0)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
