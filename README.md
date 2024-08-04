@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#0 Вступление | Вёрстка сайта по макету из Pixso](https://www.youtube.com/watch?v=Tyi8u6ElIuk)
 - [#17 Найти закрывающий тег и обернуть, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=IM9zhG72vSc)
 - [#11 Подключение по FTP | Перенос сайта на хостинг 2024](https://www.youtube.com/watch?v=ThV3qCM-JkU)
-- [#10 Резервная копия | Перенос сайта на хостинг 2024](https://www.youtube.com/watch?v=BvpNSyXwJ-Y)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
