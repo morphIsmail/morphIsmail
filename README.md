@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#19 Другие действия и комментирование, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=dFrHaCJaeDY)
 - [#1 Знакомство с Pixso, загрузка, авторизация, обзор](https://www.youtube.com/watch?v=legGwkvIlUU)
 - [#18 Оборачивание отдельных строк, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=oWkemgZ9OJg)
-- [#0 Вступление | Вёрстка сайта по макету из Pixso](https://www.youtube.com/watch?v=Tyi8u6ElIuk)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
