@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#2 Пишем разметку html первого раздела и работа с SVG иконками](https://www.youtube.com/watch?v=P6P-Ezd4JEQ)
+- [Навигатор по каналу ITDoctor и план бесплатного обучения](https://www.youtube.com/watch?v=TudPvDiHels)
 - [#19 Другие действия и комментирование, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=dFrHaCJaeDY)
-- [#1 Знакомство с Pixso, загрузка, авторизация, обзор](https://www.youtube.com/watch?v=legGwkvIlUU)
-- [#18 Оборачивание отдельных строк, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=oWkemgZ9OJg)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
