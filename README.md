@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#20 Удаление тега, объединение линий и размер изображения](https://www.youtube.com/watch?v=meCwEoWLXbs)
+- [5 интересных возможностей языка CSS](https://www.youtube.com/watch?v=L73yW_IbAJE)
 - [#2 Пишем разметку html первого раздела и работа с SVG иконками](https://www.youtube.com/watch?v=P6P-Ezd4JEQ)
-- [Навигатор по каналу ITDoctor и план бесплатного обучения](https://www.youtube.com/watch?v=TudPvDiHels)
-- [#19 Другие действия и комментирование, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=dFrHaCJaeDY)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
