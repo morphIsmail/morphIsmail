@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [3 y Подробно про SVG иконки и отличия разных способов подключения](https://www.youtube.com/watch?v=-uxr7qcKiT8)
 - [#20 Удаление тега, объединение линий и размер изображения](https://www.youtube.com/watch?v=meCwEoWLXbs)
 - [5 интересных возможностей языка CSS](https://www.youtube.com/watch?v=L73yW_IbAJE)
-- [#2 Пишем разметку html первого раздела и работа с SVG иконками](https://www.youtube.com/watch?v=P6P-Ezd4JEQ)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
