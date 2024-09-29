@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [5 y Perfect Pixel в браузере, оформление стилей в соответствии с макетом](https://www.youtube.com/watch?v=6jPL_oCt7Jg)
 - [#4 Оформление базовых стилей CSS, просмотр всех шрифтов на макете, работа с Google Fonts](https://www.youtube.com/watch?v=y87Fnj1ALkc)
 - [#3 Подробно про SVG иконки и отличия разных способов подключения](https://www.youtube.com/watch?v=-uxr7qcKiT8)
-- [#20 Удаление тега, объединение линий и размер изображения](https://www.youtube.com/watch?v=meCwEoWLXbs)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
