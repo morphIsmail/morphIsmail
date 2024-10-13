@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#6.2 Про полезные материалы, ссылка на GitHub как пользоваться всеми ресурсами](https://www.youtube.com/watch?v=1XIKECVtfbs)
 - [#6.1 Оформление стилей для раздела Features и проверка на разных размерах экрана](https://www.youtube.com/watch?v=iMYbECM7D7I)
 - [#5 Perfect Pixel в браузере, оформление стилей в соответствии с макетом](https://www.youtube.com/watch?v=6jPL_oCt7Jg)
-- [#4 Оформление базовых стилей CSS, просмотр всех шрифтов на макете, работа с Google Fonts](https://www.youtube.com/watch?v=y87Fnj1ALkc)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
