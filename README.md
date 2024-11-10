@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#10 Раздел Blog пишем HTML разметку](https://www.youtube.com/watch?v=uH4K5_F4-wo)
 - [#9 Медиа запросы для раздела Stats](https://www.youtube.com/watch?v=VFOnihmJ_jA)
 - [#8 Настройка стилей для раздела Stats, выравнивание свойством margin](https://www.youtube.com/watch?v=w2dk6JsehNc)
-- [#7 Раздел Stats с градиентным фоном](https://www.youtube.com/watch?v=bD25GGR6Va0)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
