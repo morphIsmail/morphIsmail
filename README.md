@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#13 Домашнее задание](https://www.youtube.com/watch?v=rB3mjYxPVUE)
 - [#12 Медиа запросы для раздела Blog](https://www.youtube.com/watch?v=JK8xLQBhBYE)
 - [#11 CSS Стили для раздела Blog](https://www.youtube.com/watch?v=HKB_kEW4uuI)
-- [#10 Раздел Blog пишем HTML разметку](https://www.youtube.com/watch?v=uH4K5_F4-wo)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
