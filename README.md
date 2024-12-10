@@ -9,7 +9,7 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
-- [21 Выражения, Инкремент и Префиксы](https://www.youtube.com/watch?v=OXHccAJvfmg)
+- [#21 Выражения, Инкремент и Префиксы, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=OXHccAJvfmg)
 - [#13 Домашнее задание](https://www.youtube.com/watch?v=rB3mjYxPVUE)
 - [#12 Медиа запросы для раздела Blog](https://www.youtube.com/watch?v=JK8xLQBhBYE)
 <!-- YOUTUBE:END -->
