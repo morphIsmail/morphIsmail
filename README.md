@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#24 Позиционирование, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=RoDrM48Wwo8)
+- [Как подключить галерею изображений baguetteBox.js к сайту в 2024](https://www.youtube.com/watch?v=XjpJmQv_DQ8)
 - [#23 Передача цвета, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=-IycWrSL9AE)
-- [#22 Аббревиатуры CSS, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=kZSUFv2PeHY)
-- [#21 Выражения, Инкремент и Префиксы, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=OXHccAJvfmg)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
