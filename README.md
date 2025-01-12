@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#26 Блочная модель, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=288AoJJ_lg8)
 - [#25 Визуальное форматирование, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=a9pW0cZnJQ0)
 - [#24 Позиционирование, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=RoDrM48Wwo8)
-- [Как подключить галерею изображений baguetteBox.js к сайту в 2024](https://www.youtube.com/watch?v=XjpJmQv_DQ8)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
