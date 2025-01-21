@@ -9,7 +9,7 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
-- [27 Шрифты](https://www.youtube.com/watch?v=goCyvvB4scg)
+- [#27 Шрифты, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=goCyvvB4scg)
 - [#26 Блочная модель, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=288AoJJ_lg8)
 - [#25 Визуальное форматирование, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=a9pW0cZnJQ0)
 <!-- YOUTUBE:END -->
