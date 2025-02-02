@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#29 Цвет и фон, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=hasaWIqhAlU)
 - [#28 Текст, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=VtiOq7tEPuA)
 - [#27 Шрифты, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=goCyvvB4scg)
-- [#26 Блочная модель, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=288AoJJ_lg8)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
