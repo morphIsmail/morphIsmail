@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#31 Списки и другое, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=Z6kpa83giBM)
 - [2 | Учим HTML теги | Создание сайтов | Кайдзен разработка](https://www.youtube.com/watch?v=8TtGCRbEGeQ)
 - [#30 Границы, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=bmZESgS9Uzs)
-- [1 | Создание сайтов | Кайдзен разработка](https://www.youtube.com/watch?v=w8q5KumPifA)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
