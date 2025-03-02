@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#33 Фильтры, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=RRLmKMU7DqE)
 - [3 | Атрибуты и образование RGB цвета | Создание сайтов | Кайдзен разработка](https://www.youtube.com/watch?v=yRIO0WPbDtk)
 - [#32 Про XSL, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=3TWj3Mn8o0M)
-- [#31 Списки и другое, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=Z6kpa83giBM)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
