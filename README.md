@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#34 БЭМ, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=QefHH79kGsc)
 - [4 | Что такое семантика, семантическая верстка и семантические теги | Кайдзен разработка](https://www.youtube.com/watch?v=lU8IJLCQeWY)
 - [#33 Фильтры, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=RRLmKMU7DqE)
-- [3 | Атрибуты и образование RGB цвета | Создание сайтов | Кайдзен разработка](https://www.youtube.com/watch?v=yRIO0WPbDtk)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
