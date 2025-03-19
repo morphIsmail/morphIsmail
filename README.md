@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [6 | CSS Свойства | Кайдзен разработка](https://www.youtube.com/watch?v=gGfXBi6TG_0)
 - [#35 Настройки и документация, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=KnOLNimtAk4)
 - [5 | CSS Селекторы | Кайдзен разработка](https://www.youtube.com/watch?v=GHezPAbcfsM)
-- [#34 БЭМ, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=QefHH79kGsc)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
