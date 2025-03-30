@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#37 Расширения для VS Code, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=aU__EXZe1vY)
 - [7 | Текст и блок на CSS | Кайдзен разработка](https://www.youtube.com/watch?v=SW-tq1VDzzg)
 - [#36 Настройки Emmet в редакторе, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=OOmruN1Xzls)
-- [6 | CSS Свойства | Кайдзен разработка](https://www.youtube.com/watch?v=gGfXBi6TG_0)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
