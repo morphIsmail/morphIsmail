@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [8 | CSS Flexbox - это БАЗА! | Кайдзен разработка](https://www.youtube.com/watch?v=K7m_Iq3JrjY)
 - [#37 Расширения для VS Code, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=aU__EXZe1vY)
 - [7 | Текст и блок на CSS | Кайдзен разработка](https://www.youtube.com/watch?v=SW-tq1VDzzg)
-- [#36 Настройки Emmet в редакторе, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=OOmruN1Xzls)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
