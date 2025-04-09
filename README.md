@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [9 | Учим основы CSS Grid | Кайдзен разработка](https://www.youtube.com/watch?v=KZF33MrWg9s)
 - [#38 Горячие клавиши в VS Code, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=iBDcQcVjqEw)
 - [8 | CSS Flexbox - это БАЗА! | Кайдзен разработка](https://www.youtube.com/watch?v=K7m_Iq3JrjY)
-- [#37 Расширения для VS Code, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=aU__EXZe1vY)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
