@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Пишем первую программу на Go - Hello World! ▶️](https://www.youtube.com/watch?v=bQ73D3SH9-g)
 - [9 | Учим основы CSS Grid | Кайдзен разработка](https://www.youtube.com/watch?v=KZF33MrWg9s)
 - [#38 Горячие клавиши в VS Code, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=iBDcQcVjqEw)
-- [8 | CSS Flexbox - это БАЗА! | Кайдзен разработка](https://www.youtube.com/watch?v=K7m_Iq3JrjY)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
