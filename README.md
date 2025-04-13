@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#39 Итоги курса, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=487-8o7uurw)
 - [Пишем первую программу на Go - Hello World! ▶️](https://www.youtube.com/watch?v=bQ73D3SH9-g)
 - [9 | Учим основы CSS Grid | Кайдзен разработка](https://www.youtube.com/watch?v=KZF33MrWg9s)
-- [#38 Горячие клавиши в VS Code, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=iBDcQcVjqEw)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
