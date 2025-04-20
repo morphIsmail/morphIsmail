@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#7 Работа с графическим интерфейсом | Git и GitHub для начинающих](https://www.youtube.com/watch?v=d4CMlsqTXN4)
 - [10 | Figma и Pixso, практика с макетом и ДЗ | Кайдзен разработка](https://www.youtube.com/watch?v=SfjXOpRy18c)
 - [#39 Итоги курса, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=487-8o7uurw)
-- [Пишем первую программу на Go - Hello World! ▶️](https://www.youtube.com/watch?v=bQ73D3SH9-g)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
