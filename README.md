@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [11 | Урок по основам JavaScript для начинающих | Кайдзен разработка](https://www.youtube.com/watch?v=WH6VB-M67CI)
 - [#7 Работа с графическим интерфейсом | Git и GitHub для начинающих](https://www.youtube.com/watch?v=d4CMlsqTXN4)
 - [10 | Figma и Pixso, практика с макетом и ДЗ | Кайдзен разработка](https://www.youtube.com/watch?v=SfjXOpRy18c)
-- [#39 Итоги курса, Курс-плейлист Тренажер по вёрстке, плагин Emmet](https://www.youtube.com/watch?v=487-8o7uurw)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
