@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#8 Комбинированный способ загрузки кода | Git и GitHub для начинающих](https://www.youtube.com/watch?v=bSriiUxMdLo)
 - [11 | Урок по основам JavaScript для начинающих | Кайдзен разработка](https://www.youtube.com/watch?v=WH6VB-M67CI)
 - [#7 Работа с графическим интерфейсом | Git и GitHub для начинающих](https://www.youtube.com/watch?v=d4CMlsqTXN4)
-- [10 | Figma и Pixso, практика с макетом и ДЗ | Кайдзен разработка](https://www.youtube.com/watch?v=SfjXOpRy18c)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
