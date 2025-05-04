@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#9 Как удалить репозиторий на GitHub | Git и GitHub для начинающих](https://www.youtube.com/watch?v=psesQl6Rfhw)
 - [#8 Комбинированный способ загрузки кода | Git и GitHub для начинающих](https://www.youtube.com/watch?v=bSriiUxMdLo)
 - [11 | Урок по основам JavaScript для начинающих | Кайдзен разработка](https://www.youtube.com/watch?v=WH6VB-M67CI)
-- [#7 Работа с графическим интерфейсом | Git и GitHub для начинающих](https://www.youtube.com/watch?v=d4CMlsqTXN4)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
