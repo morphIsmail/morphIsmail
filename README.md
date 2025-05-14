@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [12 | Функции в JavaScript: от основ до практики | Кайдзен разработка](https://www.youtube.com/watch?v=Jzgg5JGaP3Q)
 - [#10 Клонирование репозитория | Git и GitHub для начинающих](https://www.youtube.com/watch?v=M2eC0O8H0Yo)
 - [#9 Как удалить репозиторий на GitHub | Git и GitHub для начинающих](https://www.youtube.com/watch?v=psesQl6Rfhw)
-- [#8 Комбинированный способ загрузки кода | Git и GitHub для начинающих](https://www.youtube.com/watch?v=bSriiUxMdLo)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
