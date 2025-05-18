@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#11 Расширение Git Graph | Git и GitHub для начинающих](https://www.youtube.com/watch?v=_RHh-Pk3kPA)
 - [12 | Функции в JavaScript: от основ до практики | Кайдзен разработка](https://www.youtube.com/watch?v=Jzgg5JGaP3Q)
 - [#10 Клонирование репозитория | Git и GitHub для начинающих](https://www.youtube.com/watch?v=M2eC0O8H0Yo)
-- [#9 Как удалить репозиторий на GitHub | Git и GitHub для начинающих](https://www.youtube.com/watch?v=psesQl6Rfhw)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
