@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [13 | Массивы, объекты, условия и циклы на JavaScript | Кайдзен разработка](https://www.youtube.com/watch?v=DL-cGZ_89VQ)
 - [#11 Расширение Git Graph | Git и GitHub для начинающих](https://www.youtube.com/watch?v=_RHh-Pk3kPA)
 - [12 | Функции в JavaScript: от основ до практики | Кайдзен разработка](https://www.youtube.com/watch?v=Jzgg5JGaP3Q)
-- [#10 Клонирование репозитория | Git и GitHub для начинающих](https://www.youtube.com/watch?v=M2eC0O8H0Yo)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
