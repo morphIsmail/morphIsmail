@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#12 Алиасы | Git и GitHub для начинающих](https://www.youtube.com/watch?v=v1plgmrD8R8)
 - [13 | Массивы, объекты, условия и циклы на JavaScript | Кайдзен разработка](https://www.youtube.com/watch?v=DL-cGZ_89VQ)
 - [#11 Расширение Git Graph | Git и GitHub для начинающих](https://www.youtube.com/watch?v=_RHh-Pk3kPA)
-- [12 | Функции в JavaScript: от основ до практики | Кайдзен разработка](https://www.youtube.com/watch?v=Jzgg5JGaP3Q)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
