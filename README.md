@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [HTML с нуля - полный курс по основам для начинающих за 2 часа в одном уроке](https://www.youtube.com/watch?v=0-fHQnlaWcM)
 - [14 | Работа с DOM на JavaScript | Кайдзен разработка](https://www.youtube.com/watch?v=aBKyscOS5hI)
 - [#12 Алиасы | Git и GitHub для начинающих](https://www.youtube.com/watch?v=v1plgmrD8R8)
-- [13 | Массивы, объекты, условия и циклы на JavaScript | Кайдзен разработка](https://www.youtube.com/watch?v=DL-cGZ_89VQ)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
