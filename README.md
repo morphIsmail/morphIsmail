@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [JavaScript с нуля - полный курс по основам для начинающих за 3 часа в одном уроке](https://www.youtube.com/watch?v=84z4yHnlGJQ)
 - [CSS с нуля - полный курс по основам для начинающих за 3 часа в одном уроке](https://www.youtube.com/watch?v=Jz6VvCc8IrQ)
 - [HTML с нуля - полный курс по основам для начинающих за 2 часа в одном уроке](https://www.youtube.com/watch?v=0-fHQnlaWcM)
-- [14 | Работа с DOM на JavaScript | Кайдзен разработка](https://www.youtube.com/watch?v=aBKyscOS5hI)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
