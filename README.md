@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [HTML CSS JS с нуля - полный курс по основам для начинающих за 8 часа в одном уроке](https://www.youtube.com/watch?v=eooAcSOfD4E)
 - [JavaScript с нуля - полный курс по основам для начинающих за 3 часа в одном уроке](https://www.youtube.com/watch?v=84z4yHnlGJQ)
 - [CSS с нуля - полный курс по основам для начинающих за 3 часа в одном уроке](https://www.youtube.com/watch?v=Jz6VvCc8IrQ)
-- [HTML с нуля - полный курс по основам для начинающих за 2 часа в одном уроке](https://www.youtube.com/watch?v=0-fHQnlaWcM)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
