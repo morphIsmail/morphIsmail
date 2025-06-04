@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#13 Отмена изменений в коде | Git и GitHub для начинающих](https://www.youtube.com/watch?v=BSHxwpBv-WQ)
 - [HTML CSS JS с нуля - полный курс по основам для начинающих за 8 часа в одном уроке](https://www.youtube.com/watch?v=eooAcSOfD4E)
 - [JavaScript с нуля - полный курс по основам для начинающих за 3 часа в одном уроке](https://www.youtube.com/watch?v=84z4yHnlGJQ)
-- [CSS с нуля - полный курс по основам для начинающих за 3 часа в одном уроке](https://www.youtube.com/watch?v=Jz6VvCc8IrQ)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
