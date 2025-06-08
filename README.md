@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#14 Работа с ветками, Часть 1 | Git и GitHub для начинающих](https://www.youtube.com/watch?v=PEwtswYFvLo)
 - [#13 Отмена изменений в коде | Git и GitHub для начинающих](https://www.youtube.com/watch?v=BSHxwpBv-WQ)
 - [HTML CSS JS с нуля - полный курс по основам для начинающих за 8 часа в одном уроке](https://www.youtube.com/watch?v=eooAcSOfD4E)
-- [JavaScript с нуля - полный курс по основам для начинающих за 3 часа в одном уроке](https://www.youtube.com/watch?v=84z4yHnlGJQ)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
