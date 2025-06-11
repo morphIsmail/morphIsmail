@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Bootstrap для начинающих | Bootstrap 5.3 | 2025](https://www.youtube.com/watch?v=mgbWVtd2muY)
 - [#14 Работа с ветками, Часть 1 | Git и GitHub для начинающих](https://www.youtube.com/watch?v=PEwtswYFvLo)
 - [#13 Отмена изменений в коде | Git и GitHub для начинающих](https://www.youtube.com/watch?v=BSHxwpBv-WQ)
-- [HTML CSS JS с нуля - полный курс по основам для начинающих за 8 часа в одном уроке](https://www.youtube.com/watch?v=eooAcSOfD4E)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
