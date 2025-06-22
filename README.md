@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#16 Работа с ветками, Часть 3, Слияние веток | Git и GitHub для начинающих](https://www.youtube.com/watch?v=hDcsxin9ZEM)
 - [Хлебные крошки в веб-разработке, что это? #shorts](https://www.youtube.com/shorts/Pvp3eqAE8E8)
 - [#15 Работа с ветками, Часть 2 | Git и GitHub для начинающих](https://www.youtube.com/watch?v=gCuHWIDQMSo)
-- [Bootstrap для начинающих | Bootstrap 5.3 | 2025](https://www.youtube.com/watch?v=mgbWVtd2muY)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
