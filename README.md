@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#2 Макет, сетка, контейнер в Bootstrap 5.3 | 2025](https://www.youtube.com/watch?v=zpLytT5oZ8A)
 - [#17 Язык Markdown и файл README | Git и GitHub для начинающих](https://www.youtube.com/watch?v=8lEDTrr-G4U)
 - [#1 Обзор и подключение Bootstrap 5.3 разными способами | 2025](https://www.youtube.com/watch?v=SjvEIixFCRc)
-- [#16 Работа с ветками, Часть 3, Слияние веток | Git и GitHub для начинающих](https://www.youtube.com/watch?v=hDcsxin9ZEM)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
