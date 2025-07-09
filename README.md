@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Vite с нуля - быстрый старт для начинающих в 2025 году | RU](https://www.youtube.com/watch?v=D13wKzkQnMA)
 - [#18 Синтаксис языка Markdown | Git и GitHub для начинающих](https://www.youtube.com/watch?v=jCjuXf4WPrQ)
 - [#2 Макет, сетка, контейнер в Bootstrap 5.3 | 2025](https://www.youtube.com/watch?v=zpLytT5oZ8A)
-- [#17 Язык Markdown и файл README | Git и GitHub для начинающих](https://www.youtube.com/watch?v=8lEDTrr-G4U)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
