@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#19 Синхронизация настроек редактора | Git и GitHub для начинающих](https://www.youtube.com/watch?v=4HgXlmH1yOg)
 - [Vite с нуля - быстрый старт для начинающих в 2025 году | RU](https://www.youtube.com/watch?v=D13wKzkQnMA)
 - [#18 Синтаксис языка Markdown | Git и GitHub для начинающих](https://www.youtube.com/watch?v=jCjuXf4WPrQ)
-- [#2 Макет, сетка, контейнер в Bootstrap 5.3 | 2025](https://www.youtube.com/watch?v=zpLytT5oZ8A)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
