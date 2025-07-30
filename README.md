@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#5 Компоненты в Bootstrap 5.3 Часть 1 | 2025](https://www.youtube.com/watch?v=rE1hy5pcLDg)
 - [#21 Бесплатный хостинг GitHub Pages | Git и GitHub для начинающих](https://www.youtube.com/watch?v=o-iV85RkoHE)
 - [#4 Работа с формами в Bootstrap 5.3 | 2025](https://www.youtube.com/watch?v=O0lPeMlKzTM)
-- [#20 Что такое Gist и как с ним работать | Git и GitHub для начинающих](https://www.youtube.com/watch?v=y-zATLY24eA)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
