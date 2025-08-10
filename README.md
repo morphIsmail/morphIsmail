@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#23 Как сделать Fork и Pull Request | Git и GitHub для начинающих](https://www.youtube.com/watch?v=hQTARFi9IOY)
 - [#6 Компоненты в Bootstrap 5.3 Часть 2 | 2025](https://www.youtube.com/watch?v=pTzYRU6kDwk)
 - [#22 Портфолио и страница автора на GitHub | Git и GitHub для начинающих](https://www.youtube.com/watch?v=w57rX5YDEio)
-- [#5 Компоненты в Bootstrap 5.3 Часть 1 | 2025](https://www.youtube.com/watch?v=rE1hy5pcLDg)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
