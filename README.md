@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#24 Как исключить файлы из репозитория | Git и GitHub для начинающих](https://www.youtube.com/watch?v=RvthmUPfcvY)
 - [#7 Помощники и утилиты в Bootstrap 5.3 | 2025](https://www.youtube.com/watch?v=Ut2fODD7dBE)
 - [#23 Как сделать Fork и Pull Request | Git и GitHub для начинающих](https://www.youtube.com/watch?v=hQTARFi9IOY)
-- [#6 Компоненты в Bootstrap 5.3 Часть 2 | 2025](https://www.youtube.com/watch?v=pTzYRU6kDwk)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
