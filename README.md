@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Опять поменяли дизайн? Google Fonts работа со шрифтом в 2025](https://www.youtube.com/watch?v=3goIYSoxOGU)
 - [#2 Как войти в админку Wordpress](https://www.youtube.com/watch?v=cDvbEpnZ-fY)
 - [Создаем расширение для Chrome: Блокировщик прокрутки за 10 минут](https://www.youtube.com/watch?v=j5HunJ0PeCk)
-- [#1 Установка Wordpress 6.4.3 на Open Server 5](https://www.youtube.com/watch?v=-Rug2TTHTQM)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
