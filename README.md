@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#3 Как восстановить пароль для входа в админку Wordpress через phpMyAdmin](https://www.youtube.com/watch?v=lLlJp8MQsQA)
 - [Опять поменяли дизайн? Google Fonts работа со шрифтом в 2025](https://www.youtube.com/watch?v=3goIYSoxOGU)
 - [#2 Как войти в админку Wordpress](https://www.youtube.com/watch?v=cDvbEpnZ-fY)
-- [Создаем расширение для Chrome: Блокировщик прокрутки за 10 минут](https://www.youtube.com/watch?v=j5HunJ0PeCk)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
