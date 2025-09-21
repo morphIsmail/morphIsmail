@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#4 Создание и настройка темы для Wordpress](https://www.youtube.com/watch?v=kXmGZhgQJCs)
 - [Как создать десктопное приложение на HTML, CSS и JavaScript](https://www.youtube.com/watch?v=Y5M3Gw0IEio)
 - [#3 Как восстановить пароль для входа в админку Wordpress через phpMyAdmin](https://www.youtube.com/watch?v=lLlJp8MQsQA)
-- [Опять поменяли дизайн? Google Fonts работа со шрифтом в 2025](https://www.youtube.com/watch?v=3goIYSoxOGU)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
