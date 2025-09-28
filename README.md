@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#5 Разделение на header и footer](https://www.youtube.com/watch?v=BDzW5SR3OZY)
 - [Как сделать Бургер на сайте на HTML, CSS и JS](https://www.youtube.com/watch?v=MxYz4EYHUSc)
 - [#4 Создание и настройка темы для Wordpress](https://www.youtube.com/watch?v=kXmGZhgQJCs)
-- [Как создать десктопное приложение на HTML, CSS и JavaScript](https://www.youtube.com/watch?v=Y5M3Gw0IEio)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
