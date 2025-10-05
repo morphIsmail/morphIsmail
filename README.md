@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#6 Создание functions php и подключение стилей на Wordpress](https://www.youtube.com/watch?v=nGGxJ9UGvdc)
 - [#5 Разделение на header и footer](https://www.youtube.com/watch?v=BDzW5SR3OZY)
 - [Как сделать Бургер на сайте на HTML, CSS и JS](https://www.youtube.com/watch?v=MxYz4EYHUSc)
-- [#4 Создание и настройка темы для Wordpress](https://www.youtube.com/watch?v=kXmGZhgQJCs)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
