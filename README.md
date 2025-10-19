@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#8 Шаблон страницы и заголовок на Wordpress](https://www.youtube.com/watch?v=ezvL9nhUPvg)
 - [#7 Выбор логотипа на Wordpress](https://www.youtube.com/watch?v=OiFOD-FHqB8)
 - [Как работать с препроцессором SASS, основы для начинающих](https://www.youtube.com/watch?v=iVWgLHUaKFU)
-- [#6 Создание functions php и подключение стилей на Wordpress](https://www.youtube.com/watch?v=nGGxJ9UGvdc)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
