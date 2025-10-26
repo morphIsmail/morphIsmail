@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#9 Работа с плагином CFS и произвольными полями на Wordpress](https://www.youtube.com/watch?v=rw33nOvrvBU)
 - [#8 Шаблон страницы и заголовок на Wordpress](https://www.youtube.com/watch?v=ezvL9nhUPvg)
 - [#7 Выбор логотипа на Wordpress](https://www.youtube.com/watch?v=OiFOD-FHqB8)
-- [Как работать с препроцессором SASS, основы для начинающих](https://www.youtube.com/watch?v=iVWgLHUaKFU)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
