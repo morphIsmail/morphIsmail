@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#10 Фоновое изображение раздела на Wordpress](https://www.youtube.com/watch?v=kHD8D0iDO88)
 - [#9 Работа с плагином CFS и произвольными полями на Wordpress](https://www.youtube.com/watch?v=rw33nOvrvBU)
 - [#8 Шаблон страницы и заголовок на Wordpress](https://www.youtube.com/watch?v=ezvL9nhUPvg)
-- [#7 Выбор логотипа на Wordpress](https://www.youtube.com/watch?v=OiFOD-FHqB8)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
