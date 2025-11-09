@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#11 Ошибка 404 на Wordpress](https://www.youtube.com/watch?v=DBLo5dQVZN0)
 - [#10 Фоновое изображение раздела на Wordpress](https://www.youtube.com/watch?v=kHD8D0iDO88)
 - [#9 Работа с плагином CFS и произвольными полями на Wordpress](https://www.youtube.com/watch?v=rw33nOvrvBU)
-- [#8 Шаблон страницы и заголовок на Wordpress](https://www.youtube.com/watch?v=ezvL9nhUPvg)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
