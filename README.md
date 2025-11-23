@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#13 Домашнее задание на Wordpress](https://www.youtube.com/watch?v=D28vCouZwx8)
 - [#12 Цикл на CFS на Wordpress](https://www.youtube.com/watch?v=o__o5GbYj-o)
 - [#11 Ошибка 404 на Wordpress](https://www.youtube.com/watch?v=DBLo5dQVZN0)
-- [#10 Фоновое изображение раздела на Wordpress](https://www.youtube.com/watch?v=kHD8D0iDO88)
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
