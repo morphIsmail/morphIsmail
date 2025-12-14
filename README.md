@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#16 Как сделать подвал сайта на Wordpress](https://www.youtube.com/watch?v=TLnXYyjZ5kw)
 - [#15 Как сделать главный раздел сайта на Wordpress](https://www.youtube.com/watch?v=j4-ufAtBY30)
 - [#14 Вкладки и ссылки на Wordpress](https://www.youtube.com/watch?v=jRYQI7TppeA)
-- [#13 Домашнее задание на Wordpress](https://www.youtube.com/watch?v=D28vCouZwx8)
 <!-- YOUTUBE:END -->
 
 <!--
