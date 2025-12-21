@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#2 Онлайн редактор для React | Основы React для начинающих 2025-2026](https://www.youtube.com/watch?v=ioqDz0lx3aI)
 - [#1 Что такое React и для чего он нужен | Основы React для начинающих 2025-2026](https://www.youtube.com/watch?v=LzkqBSr6eg8)
 - [#16 Как сделать подвал сайта на Wordpress](https://www.youtube.com/watch?v=TLnXYyjZ5kw)
-- [#15 Как сделать главный раздел сайта на Wordpress](https://www.youtube.com/watch?v=j4-ufAtBY30)
 <!-- YOUTUBE:END -->
 
 <!--
