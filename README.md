@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#3 Установка редактора VS Code и Node js c NPM | Основы React для начинающих 2025-2026](https://www.youtube.com/watch?v=vK4pNDzCEZU)
 - [#2 Онлайн редактор для React | Основы React для начинающих 2025-2026](https://www.youtube.com/watch?v=ioqDz0lx3aI)
 - [#1 Что такое React и для чего он нужен | Основы React для начинающих 2025-2026](https://www.youtube.com/watch?v=LzkqBSr6eg8)
-- [#16 Как сделать подвал сайта на Wordpress](https://www.youtube.com/watch?v=TLnXYyjZ5kw)
 <!-- YOUTUBE:END -->
 
 <!--
