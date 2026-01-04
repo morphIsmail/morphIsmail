@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#6 Работа с Vite | Основы React для начинающих 2025-2026](https://www.youtube.com/watch?v=EVO7y-coyp0)
 - [#5 Завершить компиляцию и открыть проект в редакторе | Основы React для начинающих 2025-2026](https://www.youtube.com/watch?v=buCLQes3SS4)
 - [#4 Создание проекта React | Основы React для начинающих 2025-2026](https://www.youtube.com/watch?v=KpTcPW8P6vs)
-- [#3 Установка редактора VS Code и Node js c NPM | Основы React для начинающих 2025-2026](https://www.youtube.com/watch?v=vK4pNDzCEZU)
 <!-- YOUTUBE:END -->
 
 <!--
