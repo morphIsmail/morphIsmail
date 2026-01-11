@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#8 Структура проекта React | Основы React для начинающих 2025-2026](https://www.youtube.com/watch?v=HeDCN1WBClQ)
 - [#7 Что такое компоненты на React | Основы React для начинающих 2025-2026](https://www.youtube.com/watch?v=d_LRcgfpNKo)
 - [#6 Работа с Vite | Основы React для начинающих 2025-2026](https://www.youtube.com/watch?v=EVO7y-coyp0)
-- [#5 Завершить компиляцию и открыть проект в редакторе | Основы React для начинающих 2025-2026](https://www.youtube.com/watch?v=buCLQes3SS4)
 <!-- YOUTUBE:END -->
 
 <!--
