@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#12 Интерполяция и импорт изображений | Основы React для начинающих 2025-2026](https://www.youtube.com/watch?v=WIeaneOq6fc)
 - [#11 Выносим компонент в отдельный файл | Основы React для начинающих 2025-2026](https://www.youtube.com/watch?v=w948PEcdx9U)
 - [#10 Создание своего компонента | Основы React для начинающих 2025-2026](https://www.youtube.com/watch?v=kiB-qyk8pas)
-- [#9 Упрощаем проект для лучшего понимания | Основы React для начинающих 2025-2026](https://www.youtube.com/watch?v=crmHJ1mk_aw)
 <!-- YOUTUBE:END -->
 
 <!--
