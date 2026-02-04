@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#15 Импорт стилей для отдельного компонента | Основы React для начинающих 2025-2026](https://www.youtube.com/watch?v=fBWpyAr7p1o)
 - [#14 Деструктуризация | Основы React для начинающих 2025-2026](https://www.youtube.com/watch?v=9D366_YeO8M)
 - [#13 Свойства props и динамические данные в компоненте | Основы React для начинающих 2025-2026](https://www.youtube.com/watch?v=mhG7g-aRH2Y)
-- [#12 Интерполяция и импорт изображений | Основы React для начинающих 2025-2026](https://www.youtube.com/watch?v=WIeaneOq6fc)
 <!-- YOUTUBE:END -->
 
 <!--
