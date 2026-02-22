@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#19 Пример кода с отображением времени на странице | Основы React для начинающих 2025-2026](https://www.youtube.com/watch?v=INsjcLV0NSc)
 - [#18 Состояния для динамического рендера | Основы React для начинающих 2025-2026](https://www.youtube.com/watch?v=FxAMoF99-zY)
 - [#17 Обработчики событий на React | Основы React для начинающих 2025-2026](https://www.youtube.com/watch?v=u4i4AYgAhlw)
-- [#16 Что такое Children у компонента | Основы React для начинающих 2025-2026](https://www.youtube.com/watch?v=aTi0uxvTFIA)
 <!-- YOUTUBE:END -->
 
 <!--
