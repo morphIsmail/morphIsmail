@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#21 Несколько вариантов условного отображения | Основы React для начинающих 2025-2026](https://www.youtube.com/watch?v=I9HyGeoEQv0)
 - [#20 Тернарный оператор | Основы React для начинающих 2025-2026](https://www.youtube.com/watch?v=kjM3HX1Cc50)
 - [#19 Пример кода с отображением времени на странице | Основы React для начинающих 2025-2026](https://www.youtube.com/watch?v=INsjcLV0NSc)
-- [#18 Состояния для динамического рендера | Основы React для начинающих 2025-2026](https://www.youtube.com/watch?v=FxAMoF99-zY)
 <!-- YOUTUBE:END -->
 
 <!--
