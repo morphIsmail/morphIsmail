@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#24 Изоляция стилей отдельного компонента | Основы React для начинающих 2025-2026](https://www.youtube.com/watch?v=-tfC-Wh_06k)
 - [#23 Инлайновые стили | Основы React для начинающих 2025-2026](https://www.youtube.com/watch?v=vGh-6BARC4Q)
 - [#22 Стили для активной кнопки | Основы React для начинающих 2025-2026](https://www.youtube.com/watch?v=ZosZj9BFcYc)
-- [#21 Несколько вариантов условного отображения | Основы React для начинающих 2025-2026](https://www.youtube.com/watch?v=I9HyGeoEQv0)
 <!-- YOUTUBE:END -->
 
 <!--
