@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#25 Создание нового компонента для работы с формами](https://www.youtube.com/watch?v=eSO73xXbxks)
 - [#24 Изоляция стилей отдельного компонента | Основы React для начинающих 2025-2026](https://www.youtube.com/watch?v=-tfC-Wh_06k)
 - [#23 Инлайновые стили | Основы React для начинающих 2025-2026](https://www.youtube.com/watch?v=vGh-6BARC4Q)
-- [#22 Стили для активной кнопки | Основы React для начинающих 2025-2026](https://www.youtube.com/watch?v=ZosZj9BFcYc)
 <!-- YOUTUBE:END -->
 
 <!--
