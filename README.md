@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [#28 Простая валидация формы | Основы React для начинающих 2025-2026](https://www.youtube.com/watch?v=TLZF-LkYhII)
 - [#27 Работа с выпадающим списком select | Основы React для начинающих 2025-2026](https://www.youtube.com/watch?v=TXpo9vohybk)
 - [#26 Работа с полем ввода input | Основы React для начинающих 2025-2026](https://www.youtube.com/watch?v=zzEQ2O0LbvU)
-- [#25 Создание нового компонента для работы с формами | Основы React для начинающих 2025-2026](https://www.youtube.com/watch?v=eSO73xXbxks)
 <!-- YOUTUBE:END -->
 
 <!--
