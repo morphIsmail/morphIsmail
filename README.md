@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Заменит ли ИИ программистов? Честный разговор и примеры работы с ChatGPT и DeepSeek](https://www.youtube.com/watch?v=4y9HuW_03OE)
 - [Подготовка проекта, импорт макета Pixso, подключение и оптимизация шрифтов](https://www.youtube.com/watch?v=yfbdV12yJSM)
 - [React с нуля за 2 часа | Основы React для начинающих 2025-2026](https://www.youtube.com/watch?v=w6j08clJnzk)
-- [#28 Простая валидация формы | Основы React для начинающих 2025-2026](https://www.youtube.com/watch?v=TLZF-LkYhII)
 <!-- YOUTUBE:END -->
 
 <!--
