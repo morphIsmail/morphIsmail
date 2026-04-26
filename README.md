@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Как адаптировать сайт под мобильные и планшеты](https://www.youtube.com/watch?v=Txe_NRixXlw)
 - [Верстка сайта от header до footer с оптимизацией изображений](https://www.youtube.com/watch?v=Gkkgru5-oyw)
 - [Заменит ли ИИ программистов? Честный разговор и примеры работы с ChatGPT и DeepSeek](https://www.youtube.com/watch?v=4y9HuW_03OE)
-- [Подготовка проекта, импорт макета Pixso, подключение и оптимизация шрифтов](https://www.youtube.com/watch?v=yfbdV12yJSM)
 <!-- YOUTUBE:END -->
 
 <!--
