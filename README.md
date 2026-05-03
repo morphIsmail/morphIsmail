@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Создание сайта на Tilda с нуля от интерфейса до домена, работа с Zero Block](https://www.youtube.com/watch?v=LUKev5wPJZ0)
 - [Как адаптировать сайт под мобильные и планшеты](https://www.youtube.com/watch?v=Txe_NRixXlw)
 - [Верстка сайта от header до footer с оптимизацией изображений](https://www.youtube.com/watch?v=Gkkgru5-oyw)
-- [Заменит ли ИИ программистов? Честный разговор и примеры работы с ChatGPT и DeepSeek](https://www.youtube.com/watch?v=4y9HuW_03OE)
 <!-- YOUTUBE:END -->
 
 <!--
