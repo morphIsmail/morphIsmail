@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Работа со шрифтом, оптимизация, поддержка, подключение с Google Fonts](https://www.youtube.com/watch?v=ba-nxZrg6Es)
 - [Создание сайта на Tilda с нуля от интерфейса до домена, работа с Zero Block](https://www.youtube.com/watch?v=LUKev5wPJZ0)
 - [Как адаптировать сайт под мобильные и планшеты](https://www.youtube.com/watch?v=Txe_NRixXlw)
-- [Верстка сайта от header до footer с оптимизацией изображений](https://www.youtube.com/watch?v=Gkkgru5-oyw)
 <!-- YOUTUBE:END -->
 
 <!--
