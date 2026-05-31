@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Как импортировать макет в Pixso? Макеты Figma поддерживаются](https://www.youtube.com/watch?v=gDjogKiCFM4)
 - [Wordpress 7.0 установка на локальный сервер MAMP](https://www.youtube.com/watch?v=_5N8xXIayRk)
 - [Работа со шрифтом, оптимизация, поддержка, подключение с Google Fonts](https://www.youtube.com/watch?v=ba-nxZrg6Es)
-- [Создание сайта на Tilda с нуля от интерфейса до домена, работа с Zero Block](https://www.youtube.com/watch?v=LUKev5wPJZ0)
 <!-- YOUTUBE:END -->
 
 <!--
