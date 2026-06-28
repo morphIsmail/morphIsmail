@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Делаем макет сайта в Figma, Вступление #figma](https://www.youtube.com/shorts/pd8UBD3biRo)
 - [WebP и AVIF на HTML и CSS | Как подключать современные форматы изображений](https://www.youtube.com/watch?v=tvsTRXVoTI4)
 - [Что такое песочница WordPress и зачем она нужна? #shorts](https://www.youtube.com/shorts/UBL0WCt2kZ4)
-- [Full Site Editing в WordPress 7 блочные и классические темы](https://www.youtube.com/watch?v=OuBr03q68a8)
 <!-- YOUTUBE:END -->
 
 <!--
