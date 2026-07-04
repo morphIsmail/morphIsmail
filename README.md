@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Обзор интерфейса Figma #shorts #figma](https://www.youtube.com/shorts/nzGINnIP248)
 - [Создание проекта в Figma #shorts #figma](https://www.youtube.com/shorts/dWeJgHSvOew)
 - [Первые настройки Figma #shorts #figma](https://www.youtube.com/shorts/_uoRkZG8FlQ)
-- [Регистрация в Figma #shorts #figma](https://www.youtube.com/shorts/X0F7tKTfmCs)
 <!-- YOUTUBE:END -->
 
 <!--
