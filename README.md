@@ -9,7 +9,7 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
-- [Одна работа в портфолио с чистого листа](https://www.youtube.com/watch?v=c_ay54p5nWw)
+- [Делаем макет сайта в Figma за 3 часа с нуля](https://www.youtube.com/watch?v=c_ay54p5nWw)
 - [Создание фрейма в Figma #shorts #figma](https://www.youtube.com/shorts/bVVm4hEMBW0)
 - [Обзор интерфейса Figma #shorts #figma](https://www.youtube.com/shorts/nzGINnIP248)
 <!-- YOUTUBE:END -->
