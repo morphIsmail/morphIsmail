@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [В чём суть переменных в Figma #shorts #figma](https://www.youtube.com/shorts/cZsZweojaDc)
 - [Как создать переменную в Figma #shorts #figma](https://www.youtube.com/shorts/uybyhch78Y0)
 - [Зачем нужен макет и дизайн сайта в Figma #shorts #figma](https://www.youtube.com/shorts/c4OxOss6H5U)
-- [Делаем макет сайта в Figma за 3 часа с нуля](https://www.youtube.com/watch?v=c_ay54p5nWw)
 <!-- YOUTUBE:END -->
 
 <!--
