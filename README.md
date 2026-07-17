@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Наводим порядок в слоях Figma, группируем и переименовываем слои #shorts #figma](https://www.youtube.com/shorts/6prL-pDBwtY)
 - [В чём суть переменных в Figma #shorts #figma](https://www.youtube.com/shorts/cZsZweojaDc)
 - [Как создать переменную в Figma #shorts #figma](https://www.youtube.com/shorts/uybyhch78Y0)
-- [Зачем нужен макет и дизайн сайта в Figma #shorts #figma](https://www.youtube.com/shorts/c4OxOss6H5U)
 <!-- YOUTUBE:END -->
 
 <!--
