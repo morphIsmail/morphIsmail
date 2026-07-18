@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Создаём контейнер, делаем направляющие с помощью линеек в Figma #shorts #figma](https://www.youtube.com/shorts/y1QUrl_n7Vw)
 - [Наводим порядок в слоях Figma, группируем и переименовываем слои #shorts #figma](https://www.youtube.com/shorts/6prL-pDBwtY)
 - [В чём суть переменных в Figma #shorts #figma](https://www.youtube.com/shorts/cZsZweojaDc)
-- [Как создать переменную в Figma #shorts #figma](https://www.youtube.com/shorts/uybyhch78Y0)
 <!-- YOUTUBE:END -->
 
 <!--
