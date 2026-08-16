@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [FSE Шрифты и цвет, первые настройки темы на Wordpress](https://www.youtube.com/watch?v=kkq8INxoWos)
 - [Создание блочной темы на Wordpress с нуля](https://www.youtube.com/watch?v=hd9Ntjsxv88)
 - [Локальный сервер для Wordpress](https://www.youtube.com/watch?v=YAY0X2WEee0)
-- [Песочница Wordpress для быстрого запуска и тестирования](https://www.youtube.com/watch?v=Qx0ZZY_jjSY)
 <!-- YOUTUBE:END -->
 
 <!--
