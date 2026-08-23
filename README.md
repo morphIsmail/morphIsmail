@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Меню на Wordpress по макету из Figma](https://www.youtube.com/watch?v=uz-J4u6OvZg)
 - [FSE Шрифты и цвет, первые настройки темы на Wordpress](https://www.youtube.com/watch?v=kkq8INxoWos)
 - [Создание блочной темы на Wordpress с нуля](https://www.youtube.com/watch?v=hd9Ntjsxv88)
-- [Локальный сервер для Wordpress](https://www.youtube.com/watch?v=YAY0X2WEee0)
 <!-- YOUTUBE:END -->
 
 <!--
