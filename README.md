@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Трейлер курса Frontend разработчик с нуля 2026+](https://www.youtube.com/watch?v=mRG8DDbhcrw)
 - [Меню на Wordpress по макету из Figma](https://www.youtube.com/watch?v=uz-J4u6OvZg)
 - [FSE Шрифты и цвет, первые настройки темы на Wordpress](https://www.youtube.com/watch?v=kkq8INxoWos)
-- [Создание блочной темы на Wordpress с нуля](https://www.youtube.com/watch?v=hd9Ntjsxv88)
 <!-- YOUTUBE:END -->
 
 <!--
