@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
-- [Трейлер курса Frontend разработчик с нуля 2026+](https://www.youtube.com/watch?v=mRG8DDbhcrw)
-- [Меню на Wordpress по макету из Figma](https://www.youtube.com/watch?v=uz-J4u6OvZg)
-- [FSE Шрифты и цвет, первые настройки темы на Wordpress](https://www.youtube.com/watch?v=kkq8INxoWos)
+- [Структура HTML страницы | Урок 4 из 57](https://www.youtube.com/watch?v=2DkCYhsbaT8)
+- [Что такое HTML | Урок 3 из 57](https://www.youtube.com/watch?v=XUiDstLkUHQ)
+- [Установка VS Code и первый запуск редактора кода | Урок 2 из 57](https://www.youtube.com/watch?v=jpQIqRWdArM)
 <!-- YOUTUBE:END -->
 
 <!--
