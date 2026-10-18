@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
-- [Структура HTML страницы | Урок 4 из 57](https://www.youtube.com/watch?v=2DkCYhsbaT8)
-- [Что такое HTML | Урок 3 из 57](https://www.youtube.com/watch?v=XUiDstLkUHQ)
-- [Установка VS Code и первый запуск редактора кода | Урок 2 из 57](https://www.youtube.com/watch?v=jpQIqRWdArM)
+- [Формы на языке HTML | Урок 9 из 57](https://www.youtube.com/watch?v=GrSHUIKhRFA)
+- [Изображения на HTML | Урок 8 из 57](https://www.youtube.com/watch?v=w6aTjfXSdEQ)
+- [Ссылки на HTML | Урок 7 из 57](https://www.youtube.com/watch?v=MjH0jTNCcu0)
 <!-- YOUTUBE:END -->
 
 <!--
