@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Сделайте сами страницу о себе | Урок 10 из 57](https://www.youtube.com/watch?v=cQHomjc2z0k)
 - [Формы на языке HTML | Урок 9 из 57](https://www.youtube.com/watch?v=GrSHUIKhRFA)
 - [Изображения на HTML | Урок 8 из 57](https://www.youtube.com/watch?v=w6aTjfXSdEQ)
-- [Ссылки на HTML | Урок 7 из 57](https://www.youtube.com/watch?v=MjH0jTNCcu0)
 <!-- YOUTUBE:END -->
 
 <!--
