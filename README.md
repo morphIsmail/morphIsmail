@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
-- [Сделайте сами страницу о себе | Урок 10 из 57](https://www.youtube.com/watch?v=cQHomjc2z0k)
-- [Формы на языке HTML | Урок 9 из 57](https://www.youtube.com/watch?v=GrSHUIKhRFA)
-- [Изображения на HTML | Урок 8 из 57](https://www.youtube.com/watch?v=w6aTjfXSdEQ)
+- [CSS-отступы на примере кнопки - padding, margin и проверка в DevTools | Урок 16 из 57](https://www.youtube.com/watch?v=LFqfZR-FnUQ)
+- [Workslop - Учим новые слова из мира ИИ #ai #shorts](https://www.youtube.com/shorts/nVgfWAaRlA4)
+- [Оркестрация ИИ будущее уже здесь - Учим новые слова из мира ИИ #ai](https://www.youtube.com/shorts/MEbYr0N3aog)
 <!-- YOUTUBE:END -->
 
 <!--
