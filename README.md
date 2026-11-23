@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [CSS border и border-radius — от простой рамки до круга | Урок 18 из 57](https://www.youtube.com/watch?v=Q4pVniBOi1g)
 - [Одностраничный сайт с ИИ - от общения с клиентом до публикации и SEO](https://www.youtube.com/watch?v=3IXpByZTtBw)
 - [context-engineering - Учим новые слова из мира ИИ #ai #shorts](https://www.youtube.com/shorts/MmUwRmPOB0Y)
-- [Почему margin не складывается? Схлопывание отступов в CSS на примерах | Урок 17 из 57](https://www.youtube.com/watch?v=GjuzkNxoqMI)
 <!-- YOUTUBE:END -->
 
 <!--
