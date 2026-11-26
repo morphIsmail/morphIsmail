@@ -9,9 +9,9 @@
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
+- [Размеры в CSS — когда использовать пиксели, проценты и ограничения min/max | Урок 19 из 57](https://www.youtube.com/watch?v=k3nM1z4cIxQ)
 - [CSS border и border-radius — от простой рамки до круга | Урок 18 из 57](https://www.youtube.com/watch?v=Q4pVniBOi1g)
 - [Как сделать сайт на Codex, вайб-кодинг с нуля и работа с ИИ-агентом](https://www.youtube.com/watch?v=3IXpByZTtBw)
-- [context-engineering - Учим новые слова из мира ИИ #ai #shorts](https://www.youtube.com/shorts/MmUwRmPOB0Y)
 <!-- YOUTUBE:END -->
 
 <!--
